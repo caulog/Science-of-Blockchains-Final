@@ -32,7 +32,7 @@ async function logReserves(pair, label, tradeSize) {
     timestamp: Date.now(),
   });
 
-  console.log(`📊 ${label}`);
+  console.log(`${label}`);
   console.log(`USDC Reserve: ${usdc}`);
   console.log(`WETH Reserve: ${weth}`);
   console.log(`Spot Price: ${spotPrice.toFixed(2)}\n`);
@@ -74,11 +74,11 @@ async function main() {
 
   const outPath = path.join(__dirname, "lvr-data-batch.json");
   fs.writeFileSync(outPath, JSON.stringify(results, null, 2));
-  console.log(`✅ Batch LVR data saved to ${outPath}`);
+  console.log(`Batch LVR data saved to ${outPath}`);
 }
 
 main().catch((err) => {
-  console.error("❌ Error:", err);
+  console.error("Error:", err);
   process.exit(1);
 });
 

@@ -28,7 +28,7 @@ async function main() {
   // Approve router
   const amountIn = hre.ethers.parseUnits("1000", 6); // 1000 USDC
   await usdc.approve(router.target, amountIn);
-  console.log("✅ Approved Uniswap V2 Router");
+  console.log("Approved Uniswap V2 Router");
 
   // Swap USDC for ETH
   const tx = await router.swapExactTokensForETH(
@@ -40,11 +40,11 @@ async function main() {
   );
   await tx.wait();
 
-  console.log("✅ Swap complete");
+  console.log("Swap complete");
 }
 
 main().catch((err) => {
-  console.error("❌ Error:", err);
+  console.error("Error:", err);
   process.exit(1);
 });
 

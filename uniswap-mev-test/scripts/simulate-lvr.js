@@ -24,7 +24,7 @@ async function logAndSave(pair, label) {
   const weth = formatEther(reserve1);
   const spotPrice = usdc / weth;
 
-  console.log(`📊 ${label}`);
+  console.log(`${label}`);
   console.log(`Reserve0 (USDC): ${usdc}`);
   console.log(`Reserve1 (WETH): ${weth}`);
   console.log(`Spot Price (USDC per ETH): ${spotPrice.toFixed(2)}\n`);
@@ -84,7 +84,7 @@ async function main() {
   // Save to JSON
   const outPath = path.join(__dirname, "lvr-data.json");
   fs.writeFileSync(outPath, JSON.stringify(results, null, 2));
-  console.log(`✅ Logged LVR data to ${outPath}`);
+  console.log(`Logged LVR data to ${outPath}`);
 
   // Optional: save CSV instead
   /*
@@ -93,12 +93,12 @@ async function main() {
   );
   const csvOutput = ["label,usdc_reserve,weth_reserve,spot_price,timestamp", ...csv].join("\n");
   fs.writeFileSync(path.join(__dirname, "lvr-data.csv"), csvOutput);
-  console.log("✅ CSV saved to lvr-data.csv");
+  console.log("CSV saved to lvr-data.csv");
   */
 }
 
 main().catch((err) => {
-  console.error("❌ Error:", err);
+  console.error("Error:", err);
   process.exit(1);
 });
 
