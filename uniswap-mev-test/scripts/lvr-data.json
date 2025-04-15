@@ -4,20 +4,20 @@
     "usdc_reserve": 25850953.185562,
     "weth_reserve": 14090.091194663592,
     "spot_price": 1834.6902676792224,
-    "timestamp": 1744745007627
+    "timestamp": 1744745278625
   },
   {
     "label": "AFTER FIRST TRADE",
     "usdc_reserve": 25851953.185562,
     "weth_reserve": 14089.547799646185,
     "spot_price": 1834.832001223715,
-    "timestamp": 1744745007658
+    "timestamp": 1744745278656
   },
   {
     "label": "AFTER ARB TRADE",
     "usdc_reserve": 25853953.185562,
     "weth_reserve": 14088.461135466403,
     "spot_price": 1835.1154847194102,
-    "timestamp": 1744745007669
+    "timestamp": 1744745278667
   }
 ]

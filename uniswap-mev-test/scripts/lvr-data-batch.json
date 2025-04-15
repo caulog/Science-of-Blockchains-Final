@@ -1,0 +1,90 @@
+[
+  {
+    "label": "INITIAL_STATE",
+    "trade_size_usdc": 0,
+    "usdc_reserve": 25850953.185562,
+    "weth_reserve": 14090.091194663592,
+    "spot_price": 1834.6902676792224,
+    "timestamp": 1744745295835
+  },
+  {
+    "label": "AFTER_TRADE_500",
+    "trade_size_usdc": 500,
+    "usdc_reserve": 25851453.185562,
+    "weth_reserve": 14089.819491915678,
+    "spot_price": 1834.7611337671715,
+    "timestamp": 1744745295851
+  },
+  {
+    "label": "AFTER_TRADE_1000",
+    "trade_size_usdc": 1000,
+    "usdc_reserve": 25852453.185562,
+    "weth_reserve": 14089.276117886035,
+    "spot_price": 1834.9028700447473,
+    "timestamp": 1744745295860
+  },
+  {
+    "label": "AFTER_TRADE_2000",
+    "trade_size_usdc": 2000,
+    "usdc_reserve": 25854453.185562,
+    "weth_reserve": 14088.189495674489,
+    "spot_price": 1835.1863590066075,
+    "timestamp": 1744745295869
+  },
+  {
+    "label": "AFTER_TRADE_4000",
+    "trade_size_usdc": 4000,
+    "usdc_reserve": 25858453.185562,
+    "weth_reserve": 14086.016754506312,
+    "spot_price": 1835.753402557151,
+    "timestamp": 1744745295881
+  },
+  {
+    "label": "AFTER_TRADE_8000",
+    "trade_size_usdc": 8000,
+    "usdc_reserve": 25866453.185562,
+    "weth_reserve": 14081.673284101953,
+    "spot_price": 1836.8877521654283,
+    "timestamp": 1744745295890
+  },
+  {
+    "label": "AFTER_TRADE_16000",
+    "trade_size_usdc": 16000,
+    "usdc_reserve": 25882453.185562,
+    "weth_reserve": 14072.994382329976,
+    "spot_price": 1839.1575014099315,
+    "timestamp": 1744745295899
+  },
+  {
+    "label": "AFTER_TRADE_32000",
+    "trade_size_usdc": 32000,
+    "usdc_reserve": 25914453.185562,
+    "weth_reserve": 14055.668665563828,
+    "spot_price": 1843.7012000042382,
+    "timestamp": 1744745295907
+  },
+  {
+    "label": "AFTER_TRADE_50000",
+    "trade_size_usdc": 50000,
+    "usdc_reserve": 25964453.185562,
+    "weth_reserve": 14028.682573236576,
+    "spot_price": 1850.8119383281266,
+    "timestamp": 1744745295916
+  },
+  {
+    "label": "AFTER_TRADE_75000",
+    "trade_size_usdc": 75000,
+    "usdc_reserve": 26039453.185562,
+    "weth_reserve": 13988.397403033436,
+    "spot_price": 1861.5036758903666,
+    "timestamp": 1744745295926
+  },
+  {
+    "label": "AFTER_TRADE_100000",
+    "trade_size_usdc": 100000,
+    "usdc_reserve": 26139453.185562,
+    "weth_reserve": 13935.042835225448,
+    "spot_price": 1875.807164330048,
+    "timestamp": 1744745295934
+  }
+]
