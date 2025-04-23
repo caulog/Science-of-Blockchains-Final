@@ -1,0 +1,62 @@
+[
+  {
+    "label": "AFTER_TRADE_500",
+    "trade_size_usdc": 500,
+    "spot_price": 1834.761134,
+    "lvr": 0.019284
+  },
+  {
+    "label": "AFTER_TRADE_1000",
+    "trade_size_usdc": 1000,
+    "spot_price": 1834.90287,
+    "lvr": 0.173553
+  },
+  {
+    "label": "AFTER_TRADE_2000",
+    "trade_size_usdc": 2000,
+    "spot_price": 1835.186359,
+    "lvr": 0.9449
+  },
+  {
+    "label": "AFTER_TRADE_4000",
+    "trade_size_usdc": 4000,
+    "spot_price": 1835.753403,
+    "lvr": 4.338825
+  },
+  {
+    "label": "AFTER_TRADE_8000",
+    "trade_size_usdc": 8000,
+    "spot_price": 1836.887752,
+    "lvr": 18.53161
+  },
+  {
+    "label": "AFTER_TRADE_16000",
+    "trade_size_usdc": 16000,
+    "spot_price": 1839.157501,
+    "lvr": 76.536943
+  },
+  {
+    "label": "AFTER_TRADE_32000",
+    "trade_size_usdc": 32000,
+    "spot_price": 1843.7012,
+    "lvr": 311.027088
+  },
+  {
+    "label": "AFTER_TRADE_50000",
+    "trade_size_usdc": 50000,
+    "spot_price": 1850.811938,
+    "lvr": 993.674683
+  },
+  {
+    "label": "AFTER_TRADE_75000",
+    "trade_size_usdc": 75000,
+    "spot_price": 1861.503676,
+    "lvr": 2740.812012
+  },
+  {
+    "label": "AFTER_TRADE_100000",
+    "trade_size_usdc": 100000,
+    "spot_price": 1875.807164,
+    "lvr": 6420.313158
+  }
+]
