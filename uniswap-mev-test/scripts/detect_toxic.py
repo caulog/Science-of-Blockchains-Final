@@ -1,25 +1,28 @@
+# detect_toxic.py
+
 import json
 import pandas as pd
 
-# === Load Hardhat-generated trade data ===
-with open("trade_data.json", "r") as f:
-    trades = json.load(f)
+THRESHOLD_PCT = 0.0002  # 0.1% relative price difference
+MIN_TRADE_SIZE = 1000  # USDC size
 
-df = pd.DataFrame(trades)
+def detect_toxic_trades(df, threshold_pct=THRESHOLD_PCT, min_trade_size=MIN_TRADE_SIZE):
+    df["price_diff_pct"] = abs(df["amm_price"] - df["external_price"]) / df["external_price"]
+    df["is_toxic"] = (df["price_diff_pct"] > threshold_pct) & (df["trade_size"] > min_trade_size)
+    return df
 
-# === Toxic trade condition ===
-threshold = 0.01     # 1% price deviation
-min_size = 5         # min trade size to be considered impactful
+if __name__ == "__main__":
+    with open("trade_data_fixed.json", "r") as f:
+        trades = json.load(f)
 
-df["price_diff"] = abs(df["amm_price"] - df["external_price"])
-df["is_toxic"] = (df["price_diff"] > threshold) & (df["trade_size"] > min_size)
+    df = pd.DataFrame(trades)
+    df = detect_toxic_trades(df)
 
-# === Summary ===
-total = len(df)
-toxic = df["is_toxic"].sum()
-print(f"Detected {toxic} toxic trades out of {total} ({100*toxic/total:.2f}%)")
+    toxic = df["is_toxic"].sum()
+    total = len(df)
+    print(f"Detected {toxic} toxic trades out of {total} ({100*toxic/total:.2f}%)")
 
-# === Save flagged data ===
-df.to_csv("toxic_flags.csv", index=False)
-print("Saved toxic trade flags to toxic_flags.csv")
+    df.to_csv("toxic_flags.csv", index=False)
+    print("Saved toxic trade flags to toxic_flags.csv")
+
 

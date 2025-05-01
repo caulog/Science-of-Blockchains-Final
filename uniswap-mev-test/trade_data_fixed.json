@@ -1,0 +1,3502 @@
+[
+  {
+    "tradeNumber": 1,
+    "timestamp": 1699116962,
+    "amm_price": 500,
+    "external_price": 1998.8564655535592,
+    "trade_size": 2193
+  },
+  {
+    "tradeNumber": 2,
+    "timestamp": 1699116963,
+    "amm_price": 500,
+    "external_price": 1997.9562907139707,
+    "trade_size": 1693
+  },
+  {
+    "tradeNumber": 3,
+    "timestamp": 1699116964,
+    "amm_price": 500,
+    "external_price": 1999.870618997778,
+    "trade_size": 3595
+  },
+  {
+    "tradeNumber": 4,
+    "timestamp": 1699116965,
+    "amm_price": 500,
+    "external_price": 1997.227537002463,
+    "trade_size": 3118
+  },
+  {
+    "tradeNumber": 5,
+    "timestamp": 1699116966,
+    "amm_price": 500,
+    "external_price": 1998.4179134985548,
+    "trade_size": 4026
+  },
+  {
+    "tradeNumber": 6,
+    "timestamp": 1699116967,
+    "amm_price": 500,
+    "external_price": 1997.0407983326813,
+    "trade_size": 1227
+  },
+  {
+    "tradeNumber": 7,
+    "timestamp": 1699116968,
+    "amm_price": 500,
+    "external_price": 1998.3017196293404,
+    "trade_size": 1979
+  },
+  {
+    "tradeNumber": 8,
+    "timestamp": 1699116969,
+    "amm_price": 500,
+    "external_price": 1996.3157450894582,
+    "trade_size": 1448
+  },
+  {
+    "tradeNumber": 9,
+    "timestamp": 1699116970,
+    "amm_price": 500,
+    "external_price": 1996.7418723843364,
+    "trade_size": 1726
+  },
+  {
+    "tradeNumber": 10,
+    "timestamp": 1699116971,
+    "amm_price": 500,
+    "external_price": 1997.0414963412193,
+    "trade_size": 4925
+  },
+  {
+    "tradeNumber": 11,
+    "timestamp": 1699116972,
+    "amm_price": 500,
+    "external_price": 1998.092801672347,
+    "trade_size": 1453
+  },
+  {
+    "tradeNumber": 12,
+    "timestamp": 1699116973,
+    "amm_price": 500,
+    "external_price": 1997.0103696756003,
+    "trade_size": 4603
+  },
+  {
+    "tradeNumber": 13,
+    "timestamp": 1699116974,
+    "amm_price": 500,
+    "external_price": 1999.9111736191962,
+    "trade_size": 4232
+  },
+  {
+    "tradeNumber": 14,
+    "timestamp": 1699116975,
+    "amm_price": 500,
+    "external_price": 1998.4070233091138,
+    "trade_size": 4347
+  },
+  {
+    "tradeNumber": 15,
+    "timestamp": 1699116976,
+    "amm_price": 499.9999999999999,
+    "external_price": 2000.9014369888114,
+    "trade_size": 3468
+  },
+  {
+    "tradeNumber": 16,
+    "timestamp": 1699116977,
+    "amm_price": 500,
+    "external_price": 2003.8804398830193,
+    "trade_size": 2070
+  },
+  {
+    "tradeNumber": 17,
+    "timestamp": 1699116978,
+    "amm_price": 500,
+    "external_price": 2002.1240517153649,
+    "trade_size": 3634
+  },
+  {
+    "tradeNumber": 18,
+    "timestamp": 1699116979,
+    "amm_price": 499.9999999999999,
+    "external_price": 1999.9559190803654,
+    "trade_size": 1171
+  },
+  {
+    "tradeNumber": 19,
+    "timestamp": 1699116980,
+    "amm_price": 500,
+    "external_price": 1998.494310038237,
+    "trade_size": 4633
+  },
+  {
+    "tradeNumber": 20,
+    "timestamp": 1699116981,
+    "amm_price": 500,
+    "external_price": 1999.1004890423899,
+    "trade_size": 3350
+  },
+  {
+    "tradeNumber": 21,
+    "timestamp": 1699116982,
+    "amm_price": 500,
+    "external_price": 1997.229167939983,
+    "trade_size": 1955
+  },
+  {
+    "tradeNumber": 22,
+    "timestamp": 1699116983,
+    "amm_price": 500,
+    "external_price": 1996.6802085754066,
+    "trade_size": 3907
+  },
+  {
+    "tradeNumber": 23,
+    "timestamp": 1699116984,
+    "amm_price": 500,
+    "external_price": 1996.2600062171473,
+    "trade_size": 1343
+  },
+  {
+    "tradeNumber": 24,
+    "timestamp": 1699116985,
+    "amm_price": 500,
+    "external_price": 1998.6062760186703,
+    "trade_size": 1034
+  },
+  {
+    "tradeNumber": 25,
+    "timestamp": 1699116986,
+    "amm_price": 500,
+    "external_price": 1997.6299394777766,
+    "trade_size": 4721
+  },
+  {
+    "tradeNumber": 26,
+    "timestamp": 1699116987,
+    "amm_price": 499.9999999999999,
+    "external_price": 1999.58638861381,
+    "trade_size": 2307
+  },
+  {
+    "tradeNumber": 27,
+    "timestamp": 1699116988,
+    "amm_price": 500,
+    "external_price": 1997.7891336639545,
+    "trade_size": 1046
+  },
+  {
+    "tradeNumber": 28,
+    "timestamp": 1699116989,
+    "amm_price": 500,
+    "external_price": 1999.6371261440192,
+    "trade_size": 3562
+  },
+  {
+    "tradeNumber": 29,
+    "timestamp": 1699116990,
+    "amm_price": 500,
+    "external_price": 1998.7043553112098,
+    "trade_size": 3067
+  },
+  {
+    "tradeNumber": 30,
+    "timestamp": 1699116991,
+    "amm_price": 500,
+    "external_price": 1998.9411269540497,
+    "trade_size": 4251
+  },
+  {
+    "tradeNumber": 31,
+    "timestamp": 1699116992,
+    "amm_price": 500,
+    "external_price": 1996.529935480398,
+    "trade_size": 2235
+  },
+  {
+    "tradeNumber": 32,
+    "timestamp": 1699116993,
+    "amm_price": 499.9999999999999,
+    "external_price": 1998.2255638598524,
+    "trade_size": 4762
+  },
+  {
+    "tradeNumber": 33,
+    "timestamp": 1699116994,
+    "amm_price": 500,
+    "external_price": 1998.5460833847592,
+    "trade_size": 1034
+  },
+  {
+    "tradeNumber": 34,
+    "timestamp": 1699116995,
+    "amm_price": 500,
+    "external_price": 1997.4311426568088,
+    "trade_size": 3669
+  },
+  {
+    "tradeNumber": 35,
+    "timestamp": 1699116996,
+    "amm_price": 500,
+    "external_price": 1997.2043696126732,
+    "trade_size": 2833
+  },
+  {
+    "tradeNumber": 36,
+    "timestamp": 1699116997,
+    "amm_price": 500,
+    "external_price": 1995.1215072476307,
+    "trade_size": 4539
+  },
+  {
+    "tradeNumber": 37,
+    "timestamp": 1699116998,
+    "amm_price": 500,
+    "external_price": 1994.8245408879056,
+    "trade_size": 2010
+  },
+  {
+    "tradeNumber": 38,
+    "timestamp": 1699116999,
+    "amm_price": 500,
+    "external_price": 1992.5157674544676,
+    "trade_size": 3013
+  },
+  {
+    "tradeNumber": 39,
+    "timestamp": 1699117000,
+    "amm_price": 500,
+    "external_price": 1995.4604804763478,
+    "trade_size": 2487
+  },
+  {
+    "tradeNumber": 40,
+    "timestamp": 1699117001,
+    "amm_price": 500,
+    "external_price": 1992.4779254671735,
+    "trade_size": 3407
+  },
+  {
+    "tradeNumber": 41,
+    "timestamp": 1699117002,
+    "amm_price": 499.9999999999999,
+    "external_price": 1990.8609734037473,
+    "trade_size": 1412
+  },
+  {
+    "tradeNumber": 42,
+    "timestamp": 1699117003,
+    "amm_price": 500,
+    "external_price": 1991.1742540241462,
+    "trade_size": 4976
+  },
+  {
+    "tradeNumber": 43,
+    "timestamp": 1699117004,
+    "amm_price": 500,
+    "external_price": 1991.2314455351263,
+    "trade_size": 1964
+  },
+  {
+    "tradeNumber": 44,
+    "timestamp": 1699117005,
+    "amm_price": 500,
+    "external_price": 1990.0063002579222,
+    "trade_size": 3442
+  },
+  {
+    "tradeNumber": 45,
+    "timestamp": 1699117006,
+    "amm_price": 500,
+    "external_price": 1987.476892911607,
+    "trade_size": 3792
+  },
+  {
+    "tradeNumber": 46,
+    "timestamp": 1699117007,
+    "amm_price": 500,
+    "external_price": 1985.1497380510962,
+    "trade_size": 3697
+  },
+  {
+    "tradeNumber": 47,
+    "timestamp": 1699117008,
+    "amm_price": 500,
+    "external_price": 1982.8302435693413,
+    "trade_size": 4884
+  },
+  {
+    "tradeNumber": 48,
+    "timestamp": 1699117009,
+    "amm_price": 500,
+    "external_price": 1983.4314453859865,
+    "trade_size": 4093
+  },
+  {
+    "tradeNumber": 49,
+    "timestamp": 1699117010,
+    "amm_price": 500,
+    "external_price": 1983.882116160463,
+    "trade_size": 2241
+  },
+  {
+    "tradeNumber": 50,
+    "timestamp": 1699117011,
+    "amm_price": 500,
+    "external_price": 1984.7198308832303,
+    "trade_size": 3904
+  },
+  {
+    "tradeNumber": 51,
+    "timestamp": 1699117012,
+    "amm_price": 500,
+    "external_price": 1985.6091443173682,
+    "trade_size": 3610
+  },
+  {
+    "tradeNumber": 52,
+    "timestamp": 1699117013,
+    "amm_price": 500,
+    "external_price": 1987.2503740300147,
+    "trade_size": 1741
+  },
+  {
+    "tradeNumber": 53,
+    "timestamp": 1699117014,
+    "amm_price": 500,
+    "external_price": 1988.0439233095885,
+    "trade_size": 2878
+  },
+  {
+    "tradeNumber": 54,
+    "timestamp": 1699117015,
+    "amm_price": 499.9999999999999,
+    "external_price": 1989.3084561270712,
+    "trade_size": 3057
+  },
+  {
+    "tradeNumber": 55,
+    "timestamp": 1699117016,
+    "amm_price": 500,
+    "external_price": 1988.4055480158916,
+    "trade_size": 1097
+  },
+  {
+    "tradeNumber": 56,
+    "timestamp": 1699117017,
+    "amm_price": 500,
+    "external_price": 1990.352731899985,
+    "trade_size": 4125
+  },
+  {
+    "tradeNumber": 57,
+    "timestamp": 1699117018,
+    "amm_price": 500,
+    "external_price": 1992.589974477845,
+    "trade_size": 4426
+  },
+  {
+    "tradeNumber": 58,
+    "timestamp": 1699117019,
+    "amm_price": 500,
+    "external_price": 1992.8825087628663,
+    "trade_size": 1894
+  },
+  {
+    "tradeNumber": 59,
+    "timestamp": 1699117020,
+    "amm_price": 500,
+    "external_price": 1992.2837913433507,
+    "trade_size": 1940
+  },
+  {
+    "tradeNumber": 60,
+    "timestamp": 1699117021,
+    "amm_price": 500,
+    "external_price": 1990.9878078196023,
+    "trade_size": 3416
+  },
+  {
+    "tradeNumber": 61,
+    "timestamp": 1699117022,
+    "amm_price": 500,
+    "external_price": 1990.9318033730035,
+    "trade_size": 1955
+  },
+  {
+    "tradeNumber": 62,
+    "timestamp": 1699117023,
+    "amm_price": 500,
+    "external_price": 1992.9345716163402,
+    "trade_size": 1961
+  },
+  {
+    "tradeNumber": 63,
+    "timestamp": 1699117024,
+    "amm_price": 500,
+    "external_price": 1995.0405425254562,
+    "trade_size": 3179
+  },
+  {
+    "tradeNumber": 64,
+    "timestamp": 1699117025,
+    "amm_price": 500,
+    "external_price": 1995.3870557175699,
+    "trade_size": 1166
+  },
+  {
+    "tradeNumber": 65,
+    "timestamp": 1699117026,
+    "amm_price": 500,
+    "external_price": 1992.762809217231,
+    "trade_size": 2820
+  },
+  {
+    "tradeNumber": 66,
+    "timestamp": 1699117027,
+    "amm_price": 499.9999999999999,
+    "external_price": 1994.76052365181,
+    "trade_size": 2704
+  },
+  {
+    "tradeNumber": 67,
+    "timestamp": 1699117028,
+    "amm_price": 499.9999999999999,
+    "external_price": 1992.7477589619298,
+    "trade_size": 3548
+  },
+  {
+    "tradeNumber": 68,
+    "timestamp": 1699117029,
+    "amm_price": 500,
+    "external_price": 1992.0557397343516,
+    "trade_size": 3490
+  },
+  {
+    "tradeNumber": 69,
+    "timestamp": 1699117030,
+    "amm_price": 500,
+    "external_price": 1991.5097234794216,
+    "trade_size": 2578
+  },
+  {
+    "tradeNumber": 70,
+    "timestamp": 1699117031,
+    "amm_price": 500,
+    "external_price": 1988.7571437469437,
+    "trade_size": 2050
+  },
+  {
+    "tradeNumber": 71,
+    "timestamp": 1699117032,
+    "amm_price": 500,
+    "external_price": 1990.1951136161256,
+    "trade_size": 1593
+  },
+  {
+    "tradeNumber": 72,
+    "timestamp": 1699117033,
+    "amm_price": 500,
+    "external_price": 1991.4463454146112,
+    "trade_size": 2290
+  },
+  {
+    "tradeNumber": 73,
+    "timestamp": 1699117034,
+    "amm_price": 500,
+    "external_price": 1989.6201368999516,
+    "trade_size": 4474
+  },
+  {
+    "tradeNumber": 74,
+    "timestamp": 1699117035,
+    "amm_price": 500,
+    "external_price": 1991.7178985336598,
+    "trade_size": 4750
+  },
+  {
+    "tradeNumber": 75,
+    "timestamp": 1699117036,
+    "amm_price": 500,
+    "external_price": 1992.4806138860238,
+    "trade_size": 1097
+  },
+  {
+    "tradeNumber": 76,
+    "timestamp": 1699117037,
+    "amm_price": 500,
+    "external_price": 1991.2522951016554,
+    "trade_size": 2857
+  },
+  {
+    "tradeNumber": 77,
+    "timestamp": 1699117038,
+    "amm_price": 500,
+    "external_price": 1992.0057680276138,
+    "trade_size": 1790
+  },
+  {
+    "tradeNumber": 78,
+    "timestamp": 1699117039,
+    "amm_price": 500,
+    "external_price": 1990.4643755554573,
+    "trade_size": 2112
+  },
+  {
+    "tradeNumber": 79,
+    "timestamp": 1699117040,
+    "amm_price": 500,
+    "external_price": 1990.5824052390683,
+    "trade_size": 3355
+  },
+  {
+    "tradeNumber": 80,
+    "timestamp": 1699117041,
+    "amm_price": 500,
+    "external_price": 1991.62765559487,
+    "trade_size": 4013
+  },
+  {
+    "tradeNumber": 81,
+    "timestamp": 1699117042,
+    "amm_price": 500,
+    "external_price": 1992.6113876439476,
+    "trade_size": 1392
+  },
+  {
+    "tradeNumber": 82,
+    "timestamp": 1699117043,
+    "amm_price": 500,
+    "external_price": 1994.5578157778339,
+    "trade_size": 2878
+  },
+  {
+    "tradeNumber": 83,
+    "timestamp": 1699117044,
+    "amm_price": 500,
+    "external_price": 1997.312475229876,
+    "trade_size": 4749
+  },
+  {
+    "tradeNumber": 84,
+    "timestamp": 1699117045,
+    "amm_price": 500,
+    "external_price": 1996.6158404667367,
+    "trade_size": 1468
+  },
+  {
+    "tradeNumber": 85,
+    "timestamp": 1699117046,
+    "amm_price": 500,
+    "external_price": 1996.66249619134,
+    "trade_size": 4510
+  },
+  {
+    "tradeNumber": 86,
+    "timestamp": 1699117047,
+    "amm_price": 500,
+    "external_price": 1993.6780122850462,
+    "trade_size": 4532
+  },
+  {
+    "tradeNumber": 87,
+    "timestamp": 1699117048,
+    "amm_price": 500,
+    "external_price": 1995.8581559678819,
+    "trade_size": 2340
+  },
+  {
+    "tradeNumber": 88,
+    "timestamp": 1699117049,
+    "amm_price": 500,
+    "external_price": 1994.2494186704937,
+    "trade_size": 3017
+  },
+  {
+    "tradeNumber": 89,
+    "timestamp": 1699117050,
+    "amm_price": 500,
+    "external_price": 1992.0791183652022,
+    "trade_size": 2942
+  },
+  {
+    "tradeNumber": 90,
+    "timestamp": 1699117051,
+    "amm_price": 500,
+    "external_price": 1993.4430984488554,
+    "trade_size": 3369
+  },
+  {
+    "tradeNumber": 91,
+    "timestamp": 1699117052,
+    "amm_price": 500,
+    "external_price": 1990.9011994587513,
+    "trade_size": 3826
+  },
+  {
+    "tradeNumber": 92,
+    "timestamp": 1699117053,
+    "amm_price": 500,
+    "external_price": 1993.4674860939147,
+    "trade_size": 3231
+  },
+  {
+    "tradeNumber": 93,
+    "timestamp": 1699117054,
+    "amm_price": 500,
+    "external_price": 1996.310821340368,
+    "trade_size": 2014
+  },
+  {
+    "tradeNumber": 94,
+    "timestamp": 1699117055,
+    "amm_price": 500,
+    "external_price": 1994.479474231707,
+    "trade_size": 4274
+  },
+  {
+    "tradeNumber": 95,
+    "timestamp": 1699117056,
+    "amm_price": 500,
+    "external_price": 1992.9307054523456,
+    "trade_size": 2247
+  },
+  {
+    "tradeNumber": 96,
+    "timestamp": 1699117057,
+    "amm_price": 500,
+    "external_price": 1994.2203630026474,
+    "trade_size": 1625
+  },
+  {
+    "tradeNumber": 97,
+    "timestamp": 1699117058,
+    "amm_price": 500,
+    "external_price": 1992.4203898344144,
+    "trade_size": 4001
+  },
+  {
+    "tradeNumber": 98,
+    "timestamp": 1699117059,
+    "amm_price": 500,
+    "external_price": 1991.616680825564,
+    "trade_size": 4125
+  },
+  {
+    "tradeNumber": 99,
+    "timestamp": 1699117060,
+    "amm_price": 500,
+    "external_price": 1990.4550789887767,
+    "trade_size": 2792
+  },
+  {
+    "tradeNumber": 100,
+    "timestamp": 1699117061,
+    "amm_price": 500,
+    "external_price": 1989.1316223006813,
+    "trade_size": 2634
+  },
+  {
+    "tradeNumber": 101,
+    "timestamp": 1699117062,
+    "amm_price": 500,
+    "external_price": 1987.1469429132815,
+    "trade_size": 2856
+  },
+  {
+    "tradeNumber": 102,
+    "timestamp": 1699117063,
+    "amm_price": 500,
+    "external_price": 1986.3929577529818,
+    "trade_size": 3479
+  },
+  {
+    "tradeNumber": 103,
+    "timestamp": 1699117064,
+    "amm_price": 500,
+    "external_price": 1986.846437236956,
+    "trade_size": 1310
+  },
+  {
+    "tradeNumber": 104,
+    "timestamp": 1699117065,
+    "amm_price": 500,
+    "external_price": 1988.2700013621047,
+    "trade_size": 2233
+  },
+  {
+    "tradeNumber": 105,
+    "timestamp": 1699117066,
+    "amm_price": 500,
+    "external_price": 1989.9595131861008,
+    "trade_size": 2273
+  },
+  {
+    "tradeNumber": 106,
+    "timestamp": 1699117067,
+    "amm_price": 500,
+    "external_price": 1992.3325675219176,
+    "trade_size": 4464
+  },
+  {
+    "tradeNumber": 107,
+    "timestamp": 1699117068,
+    "amm_price": 500,
+    "external_price": 1989.588642682781,
+    "trade_size": 1790
+  },
+  {
+    "tradeNumber": 108,
+    "timestamp": 1699117069,
+    "amm_price": 500,
+    "external_price": 1988.3085721173918,
+    "trade_size": 2664
+  },
+  {
+    "tradeNumber": 109,
+    "timestamp": 1699117070,
+    "amm_price": 500,
+    "external_price": 1989.5251204197828,
+    "trade_size": 2496
+  },
+  {
+    "tradeNumber": 110,
+    "timestamp": 1699117071,
+    "amm_price": 500,
+    "external_price": 1991.4822018055538,
+    "trade_size": 3545
+  },
+  {
+    "tradeNumber": 111,
+    "timestamp": 1699117072,
+    "amm_price": 500,
+    "external_price": 1989.7787499171866,
+    "trade_size": 1028
+  },
+  {
+    "tradeNumber": 112,
+    "timestamp": 1699117073,
+    "amm_price": 500,
+    "external_price": 1992.733574081318,
+    "trade_size": 2646
+  },
+  {
+    "tradeNumber": 113,
+    "timestamp": 1699117074,
+    "amm_price": 500,
+    "external_price": 1993.6576003723292,
+    "trade_size": 3378
+  },
+  {
+    "tradeNumber": 114,
+    "timestamp": 1699117075,
+    "amm_price": 500,
+    "external_price": 1995.5488189692933,
+    "trade_size": 2210
+  },
+  {
+    "tradeNumber": 115,
+    "timestamp": 1699117076,
+    "amm_price": 500,
+    "external_price": 1993.0646638914934,
+    "trade_size": 2196
+  },
+  {
+    "tradeNumber": 116,
+    "timestamp": 1699117077,
+    "amm_price": 500,
+    "external_price": 1992.2338663634891,
+    "trade_size": 2602
+  },
+  {
+    "tradeNumber": 117,
+    "timestamp": 1699117078,
+    "amm_price": 500,
+    "external_price": 1991.6210832350891,
+    "trade_size": 1941
+  },
+  {
+    "tradeNumber": 118,
+    "timestamp": 1699117079,
+    "amm_price": 500,
+    "external_price": 1988.8579714587484,
+    "trade_size": 4345
+  },
+  {
+    "tradeNumber": 119,
+    "timestamp": 1699117080,
+    "amm_price": 500,
+    "external_price": 1988.356779806195,
+    "trade_size": 1804
+  },
+  {
+    "tradeNumber": 120,
+    "timestamp": 1699117081,
+    "amm_price": 500,
+    "external_price": 1986.4603815121716,
+    "trade_size": 2144
+  },
+  {
+    "tradeNumber": 121,
+    "timestamp": 1699117082,
+    "amm_price": 500,
+    "external_price": 1988.3548426565046,
+    "trade_size": 1615
+  },
+  {
+    "tradeNumber": 122,
+    "timestamp": 1699117083,
+    "amm_price": 500,
+    "external_price": 1989.7564994266827,
+    "trade_size": 2696
+  },
+  {
+    "tradeNumber": 123,
+    "timestamp": 1699117084,
+    "amm_price": 500,
+    "external_price": 1992.4924910963418,
+    "trade_size": 3769
+  },
+  {
+    "tradeNumber": 124,
+    "timestamp": 1699117085,
+    "amm_price": 500,
+    "external_price": 1992.596840506203,
+    "trade_size": 2193
+  },
+  {
+    "tradeNumber": 125,
+    "timestamp": 1699117086,
+    "amm_price": 500,
+    "external_price": 1990.3372069455002,
+    "trade_size": 3498
+  },
+  {
+    "tradeNumber": 126,
+    "timestamp": 1699117087,
+    "amm_price": 500,
+    "external_price": 1991.1506101452933,
+    "trade_size": 1936
+  },
+  {
+    "tradeNumber": 127,
+    "timestamp": 1699117088,
+    "amm_price": 500,
+    "external_price": 1988.7645211975464,
+    "trade_size": 3184
+  },
+  {
+    "tradeNumber": 128,
+    "timestamp": 1699117089,
+    "amm_price": 500,
+    "external_price": 1987.3768175428277,
+    "trade_size": 4486
+  },
+  {
+    "tradeNumber": 129,
+    "timestamp": 1699117090,
+    "amm_price": 500,
+    "external_price": 1988.0424261143205,
+    "trade_size": 2903
+  },
+  {
+    "tradeNumber": 130,
+    "timestamp": 1699117091,
+    "amm_price": 500,
+    "external_price": 1989.5025796438365,
+    "trade_size": 2254
+  },
+  {
+    "tradeNumber": 131,
+    "timestamp": 1699117092,
+    "amm_price": 500,
+    "external_price": 1988.2431561646592,
+    "trade_size": 3948
+  },
+  {
+    "tradeNumber": 132,
+    "timestamp": 1699117093,
+    "amm_price": 500,
+    "external_price": 1989.9264320181592,
+    "trade_size": 4443
+  },
+  {
+    "tradeNumber": 133,
+    "timestamp": 1699117094,
+    "amm_price": 500,
+    "external_price": 1989.5815459693883,
+    "trade_size": 1092
+  },
+  {
+    "tradeNumber": 134,
+    "timestamp": 1699117095,
+    "amm_price": 500,
+    "external_price": 1989.9015379825767,
+    "trade_size": 1097
+  },
+  {
+    "tradeNumber": 135,
+    "timestamp": 1699117096,
+    "amm_price": 500,
+    "external_price": 1992.4006620480911,
+    "trade_size": 2778
+  },
+  {
+    "tradeNumber": 136,
+    "timestamp": 1699117097,
+    "amm_price": 500,
+    "external_price": 1993.5394952660079,
+    "trade_size": 2382
+  },
+  {
+    "tradeNumber": 137,
+    "timestamp": 1699117098,
+    "amm_price": 500,
+    "external_price": 1994.9546277175455,
+    "trade_size": 3528
+  },
+  {
+    "tradeNumber": 138,
+    "timestamp": 1699117099,
+    "amm_price": 500,
+    "external_price": 1995.096838985446,
+    "trade_size": 3576
+  },
+  {
+    "tradeNumber": 139,
+    "timestamp": 1699117100,
+    "amm_price": 500,
+    "external_price": 1993.6525002579583,
+    "trade_size": 4384
+  },
+  {
+    "tradeNumber": 140,
+    "timestamp": 1699117101,
+    "amm_price": 500,
+    "external_price": 1994.2741303830303,
+    "trade_size": 1232
+  },
+  {
+    "tradeNumber": 141,
+    "timestamp": 1699117102,
+    "amm_price": 500,
+    "external_price": 1993.1330952153712,
+    "trade_size": 2672
+  },
+  {
+    "tradeNumber": 142,
+    "timestamp": 1699117103,
+    "amm_price": 500,
+    "external_price": 1991.9188871385081,
+    "trade_size": 2889
+  },
+  {
+    "tradeNumber": 143,
+    "timestamp": 1699117104,
+    "amm_price": 500,
+    "external_price": 1990.5335641094807,
+    "trade_size": 2858
+  },
+  {
+    "tradeNumber": 144,
+    "timestamp": 1699117105,
+    "amm_price": 500,
+    "external_price": 1992.7537756850268,
+    "trade_size": 1236
+  },
+  {
+    "tradeNumber": 145,
+    "timestamp": 1699117106,
+    "amm_price": 500,
+    "external_price": 1992.3859023896662,
+    "trade_size": 4982
+  },
+  {
+    "tradeNumber": 146,
+    "timestamp": 1699117107,
+    "amm_price": 500,
+    "external_price": 1992.8096129041128,
+    "trade_size": 3293
+  },
+  {
+    "tradeNumber": 147,
+    "timestamp": 1699117108,
+    "amm_price": 500,
+    "external_price": 1990.3631211518953,
+    "trade_size": 3823
+  },
+  {
+    "tradeNumber": 148,
+    "timestamp": 1699117109,
+    "amm_price": 500,
+    "external_price": 1993.0384332205085,
+    "trade_size": 1028
+  },
+  {
+    "tradeNumber": 149,
+    "timestamp": 1699117110,
+    "amm_price": 500,
+    "external_price": 1991.3464760462393,
+    "trade_size": 3658
+  },
+  {
+    "tradeNumber": 150,
+    "timestamp": 1699117111,
+    "amm_price": 500,
+    "external_price": 1988.8533624402376,
+    "trade_size": 4722
+  },
+  {
+    "tradeNumber": 151,
+    "timestamp": 1699117112,
+    "amm_price": 500,
+    "external_price": 1991.240092393879,
+    "trade_size": 2672
+  },
+  {
+    "tradeNumber": 152,
+    "timestamp": 1699117113,
+    "amm_price": 500,
+    "external_price": 1991.3315119301014,
+    "trade_size": 3312
+  },
+  {
+    "tradeNumber": 153,
+    "timestamp": 1699117114,
+    "amm_price": 500,
+    "external_price": 1988.3729147648576,
+    "trade_size": 3715
+  },
+  {
+    "tradeNumber": 154,
+    "timestamp": 1699117115,
+    "amm_price": 500,
+    "external_price": 1991.2180433961294,
+    "trade_size": 3908
+  },
+  {
+    "tradeNumber": 155,
+    "timestamp": 1699117116,
+    "amm_price": 500,
+    "external_price": 1993.2408237475902,
+    "trade_size": 2287
+  },
+  {
+    "tradeNumber": 156,
+    "timestamp": 1699117117,
+    "amm_price": 500,
+    "external_price": 1990.558027332784,
+    "trade_size": 4340
+  },
+  {
+    "tradeNumber": 157,
+    "timestamp": 1699117118,
+    "amm_price": 500,
+    "external_price": 1990.343486699711,
+    "trade_size": 4263
+  },
+  {
+    "tradeNumber": 158,
+    "timestamp": 1699117119,
+    "amm_price": 500,
+    "external_price": 1987.9526842460784,
+    "trade_size": 4160
+  },
+  {
+    "tradeNumber": 159,
+    "timestamp": 1699117120,
+    "amm_price": 500,
+    "external_price": 1989.090389996775,
+    "trade_size": 3459
+  },
+  {
+    "tradeNumber": 160,
+    "timestamp": 1699117121,
+    "amm_price": 500,
+    "external_price": 1986.1730200286718,
+    "trade_size": 3206
+  },
+  {
+    "tradeNumber": 161,
+    "timestamp": 1699117122,
+    "amm_price": 500,
+    "external_price": 1984.1584937568987,
+    "trade_size": 2140
+  },
+  {
+    "tradeNumber": 162,
+    "timestamp": 1699117123,
+    "amm_price": 500,
+    "external_price": 1986.7058987545083,
+    "trade_size": 1899
+  },
+  {
+    "tradeNumber": 163,
+    "timestamp": 1699117124,
+    "amm_price": 500,
+    "external_price": 1985.9957566651974,
+    "trade_size": 1684
+  },
+  {
+    "tradeNumber": 164,
+    "timestamp": 1699117125,
+    "amm_price": 500,
+    "external_price": 1986.2110914451061,
+    "trade_size": 3910
+  },
+  {
+    "tradeNumber": 165,
+    "timestamp": 1699117126,
+    "amm_price": 500,
+    "external_price": 1984.0239734204338,
+    "trade_size": 4330
+  },
+  {
+    "tradeNumber": 166,
+    "timestamp": 1699117127,
+    "amm_price": 500,
+    "external_price": 1983.1042659320733,
+    "trade_size": 4823
+  },
+  {
+    "tradeNumber": 167,
+    "timestamp": 1699117128,
+    "amm_price": 500,
+    "external_price": 1985.9900637959022,
+    "trade_size": 3857
+  },
+  {
+    "tradeNumber": 168,
+    "timestamp": 1699117129,
+    "amm_price": 500,
+    "external_price": 1983.0392081792206,
+    "trade_size": 1884
+  },
+  {
+    "tradeNumber": 169,
+    "timestamp": 1699117130,
+    "amm_price": 500,
+    "external_price": 1981.4406483456225,
+    "trade_size": 1048
+  },
+  {
+    "tradeNumber": 170,
+    "timestamp": 1699117131,
+    "amm_price": 500,
+    "external_price": 1980.0661408800026,
+    "trade_size": 2539
+  },
+  {
+    "tradeNumber": 171,
+    "timestamp": 1699117132,
+    "amm_price": 500,
+    "external_price": 1981.2194540174735,
+    "trade_size": 4596
+  },
+  {
+    "tradeNumber": 172,
+    "timestamp": 1699117133,
+    "amm_price": 500,
+    "external_price": 1978.9974198675943,
+    "trade_size": 1617
+  },
+  {
+    "tradeNumber": 173,
+    "timestamp": 1699117134,
+    "amm_price": 500,
+    "external_price": 1979.5402679997271,
+    "trade_size": 3993
+  },
+  {
+    "tradeNumber": 174,
+    "timestamp": 1699117135,
+    "amm_price": 500,
+    "external_price": 1982.4457625607515,
+    "trade_size": 2412
+  },
+  {
+    "tradeNumber": 175,
+    "timestamp": 1699117136,
+    "amm_price": 500,
+    "external_price": 1982.9817421524729,
+    "trade_size": 4609
+  },
+  {
+    "tradeNumber": 176,
+    "timestamp": 1699117137,
+    "amm_price": 500,
+    "external_price": 1983.9573033156175,
+    "trade_size": 1099
+  },
+  {
+    "tradeNumber": 177,
+    "timestamp": 1699117138,
+    "amm_price": 500,
+    "external_price": 1982.6758924012374,
+    "trade_size": 2573
+  },
+  {
+    "tradeNumber": 178,
+    "timestamp": 1699117139,
+    "amm_price": 500,
+    "external_price": 1982.563583896716,
+    "trade_size": 1606
+  },
+  {
+    "tradeNumber": 179,
+    "timestamp": 1699117140,
+    "amm_price": 500,
+    "external_price": 1983.828818666095,
+    "trade_size": 1598
+  },
+  {
+    "tradeNumber": 180,
+    "timestamp": 1699117141,
+    "amm_price": 500,
+    "external_price": 1982.3556181019935,
+    "trade_size": 4395
+  },
+  {
+    "tradeNumber": 181,
+    "timestamp": 1699117142,
+    "amm_price": 500,
+    "external_price": 1983.815335812945,
+    "trade_size": 2236
+  },
+  {
+    "tradeNumber": 182,
+    "timestamp": 1699117143,
+    "amm_price": 500,
+    "external_price": 1986.5070631785836,
+    "trade_size": 3734
+  },
+  {
+    "tradeNumber": 183,
+    "timestamp": 1699117144,
+    "amm_price": 500,
+    "external_price": 1984.6190715633752,
+    "trade_size": 4239
+  },
+  {
+    "tradeNumber": 184,
+    "timestamp": 1699117145,
+    "amm_price": 500,
+    "external_price": 1981.8706960951924,
+    "trade_size": 1656
+  },
+  {
+    "tradeNumber": 185,
+    "timestamp": 1699117146,
+    "amm_price": 500,
+    "external_price": 1984.7952537963288,
+    "trade_size": 4868
+  },
+  {
+    "tradeNumber": 186,
+    "timestamp": 1699117147,
+    "amm_price": 500,
+    "external_price": 1985.7517462011597,
+    "trade_size": 1073
+  },
+  {
+    "tradeNumber": 187,
+    "timestamp": 1699117148,
+    "amm_price": 500,
+    "external_price": 1987.3923755546487,
+    "trade_size": 1517
+  },
+  {
+    "tradeNumber": 188,
+    "timestamp": 1699117149,
+    "amm_price": 500,
+    "external_price": 1984.5484973090133,
+    "trade_size": 2988
+  },
+  {
+    "tradeNumber": 189,
+    "timestamp": 1699117150,
+    "amm_price": 500,
+    "external_price": 1983.5829440404273,
+    "trade_size": 1183
+  },
+  {
+    "tradeNumber": 190,
+    "timestamp": 1699117151,
+    "amm_price": 500,
+    "external_price": 1983.8572168160047,
+    "trade_size": 4910
+  },
+  {
+    "tradeNumber": 191,
+    "timestamp": 1699117152,
+    "amm_price": 500,
+    "external_price": 1985.2941687325726,
+    "trade_size": 3716
+  },
+  {
+    "tradeNumber": 192,
+    "timestamp": 1699117153,
+    "amm_price": 500,
+    "external_price": 1984.8968330204402,
+    "trade_size": 3622
+  },
+  {
+    "tradeNumber": 193,
+    "timestamp": 1699117154,
+    "amm_price": 500,
+    "external_price": 1983.6214720052558,
+    "trade_size": 3011
+  },
+  {
+    "tradeNumber": 194,
+    "timestamp": 1699117155,
+    "amm_price": 500,
+    "external_price": 1985.0358068531978,
+    "trade_size": 2957
+  },
+  {
+    "tradeNumber": 195,
+    "timestamp": 1699117156,
+    "amm_price": 500,
+    "external_price": 1984.3667524825653,
+    "trade_size": 4484
+  },
+  {
+    "tradeNumber": 196,
+    "timestamp": 1699117157,
+    "amm_price": 500,
+    "external_price": 1981.7858289236287,
+    "trade_size": 2198
+  },
+  {
+    "tradeNumber": 197,
+    "timestamp": 1699117158,
+    "amm_price": 500,
+    "external_price": 1981.680083330673,
+    "trade_size": 4267
+  },
+  {
+    "tradeNumber": 198,
+    "timestamp": 1699117159,
+    "amm_price": 500,
+    "external_price": 1981.4987839581954,
+    "trade_size": 2733
+  },
+  {
+    "tradeNumber": 199,
+    "timestamp": 1699117160,
+    "amm_price": 500,
+    "external_price": 1981.337701368193,
+    "trade_size": 4078
+  },
+  {
+    "tradeNumber": 200,
+    "timestamp": 1699117161,
+    "amm_price": 500,
+    "external_price": 1982.4576684400838,
+    "trade_size": 1437
+  },
+  {
+    "tradeNumber": 201,
+    "timestamp": 1699117162,
+    "amm_price": 500,
+    "external_price": 1984.4850754465333,
+    "trade_size": 1115
+  },
+  {
+    "tradeNumber": 202,
+    "timestamp": 1699117163,
+    "amm_price": 500,
+    "external_price": 1984.5334542825171,
+    "trade_size": 2132
+  },
+  {
+    "tradeNumber": 203,
+    "timestamp": 1699117164,
+    "amm_price": 500,
+    "external_price": 1985.5773939666135,
+    "trade_size": 1870
+  },
+  {
+    "tradeNumber": 204,
+    "timestamp": 1699117165,
+    "amm_price": 500,
+    "external_price": 1986.5516532746994,
+    "trade_size": 3827
+  },
+  {
+    "tradeNumber": 205,
+    "timestamp": 1699117166,
+    "amm_price": 500,
+    "external_price": 1983.9843179342163,
+    "trade_size": 1261
+  },
+  {
+    "tradeNumber": 206,
+    "timestamp": 1699117167,
+    "amm_price": 500,
+    "external_price": 1986.4038185682743,
+    "trade_size": 3766
+  },
+  {
+    "tradeNumber": 207,
+    "timestamp": 1699117168,
+    "amm_price": 500,
+    "external_price": 1984.9307171236674,
+    "trade_size": 3166
+  },
+  {
+    "tradeNumber": 208,
+    "timestamp": 1699117169,
+    "amm_price": 500,
+    "external_price": 1984.5087161271435,
+    "trade_size": 3884
+  },
+  {
+    "tradeNumber": 209,
+    "timestamp": 1699117170,
+    "amm_price": 500,
+    "external_price": 1983.3870103044414,
+    "trade_size": 2810
+  },
+  {
+    "tradeNumber": 210,
+    "timestamp": 1699117171,
+    "amm_price": 500,
+    "external_price": 1984.6629979062297,
+    "trade_size": 2963
+  },
+  {
+    "tradeNumber": 211,
+    "timestamp": 1699117172,
+    "amm_price": 500,
+    "external_price": 1983.8028008147564,
+    "trade_size": 4212
+  },
+  {
+    "tradeNumber": 212,
+    "timestamp": 1699117173,
+    "amm_price": 500,
+    "external_price": 1981.5795544650211,
+    "trade_size": 1426
+  },
+  {
+    "tradeNumber": 213,
+    "timestamp": 1699117174,
+    "amm_price": 500,
+    "external_price": 1982.209796811559,
+    "trade_size": 2444
+  },
+  {
+    "tradeNumber": 214,
+    "timestamp": 1699117175,
+    "amm_price": 500,
+    "external_price": 1981.7602546236412,
+    "trade_size": 4053
+  },
+  {
+    "tradeNumber": 215,
+    "timestamp": 1699117176,
+    "amm_price": 500,
+    "external_price": 1982.670077489616,
+    "trade_size": 4589
+  },
+  {
+    "tradeNumber": 216,
+    "timestamp": 1699117177,
+    "amm_price": 500,
+    "external_price": 1981.5088935328636,
+    "trade_size": 4014
+  },
+  {
+    "tradeNumber": 217,
+    "timestamp": 1699117178,
+    "amm_price": 500,
+    "external_price": 1982.055291927318,
+    "trade_size": 3980
+  },
+  {
+    "tradeNumber": 218,
+    "timestamp": 1699117179,
+    "amm_price": 500,
+    "external_price": 1980.3198164805933,
+    "trade_size": 4517
+  },
+  {
+    "tradeNumber": 219,
+    "timestamp": 1699117180,
+    "amm_price": 500,
+    "external_price": 1982.3572918245463,
+    "trade_size": 4436
+  },
+  {
+    "tradeNumber": 220,
+    "timestamp": 1699117181,
+    "amm_price": 500,
+    "external_price": 1980.9731489828553,
+    "trade_size": 3072
+  },
+  {
+    "tradeNumber": 221,
+    "timestamp": 1699117182,
+    "amm_price": 500,
+    "external_price": 1983.2264433120065,
+    "trade_size": 4399
+  },
+  {
+    "tradeNumber": 222,
+    "timestamp": 1699117183,
+    "amm_price": 500,
+    "external_price": 1984.2267982991582,
+    "trade_size": 1756
+  },
+  {
+    "tradeNumber": 223,
+    "timestamp": 1699117184,
+    "amm_price": 500,
+    "external_price": 1985.4259097606482,
+    "trade_size": 1730
+  },
+  {
+    "tradeNumber": 224,
+    "timestamp": 1699117185,
+    "amm_price": 500,
+    "external_price": 1988.3698439700877,
+    "trade_size": 4575
+  },
+  {
+    "tradeNumber": 225,
+    "timestamp": 1699117186,
+    "amm_price": 500,
+    "external_price": 1987.702995815139,
+    "trade_size": 2329
+  },
+  {
+    "tradeNumber": 226,
+    "timestamp": 1699117187,
+    "amm_price": 500,
+    "external_price": 1988.97829743615,
+    "trade_size": 2051
+  },
+  {
+    "tradeNumber": 227,
+    "timestamp": 1699117188,
+    "amm_price": 500,
+    "external_price": 1989.7139102899614,
+    "trade_size": 2776
+  },
+  {
+    "tradeNumber": 228,
+    "timestamp": 1699117189,
+    "amm_price": 500,
+    "external_price": 1989.565058734866,
+    "trade_size": 2803
+  },
+  {
+    "tradeNumber": 229,
+    "timestamp": 1699117190,
+    "amm_price": 500,
+    "external_price": 1989.4408433372307,
+    "trade_size": 3601
+  },
+  {
+    "tradeNumber": 230,
+    "timestamp": 1699117191,
+    "amm_price": 500,
+    "external_price": 1987.2233659552662,
+    "trade_size": 2823
+  },
+  {
+    "tradeNumber": 231,
+    "timestamp": 1699117192,
+    "amm_price": 500,
+    "external_price": 1986.3824711227587,
+    "trade_size": 4507
+  },
+  {
+    "tradeNumber": 232,
+    "timestamp": 1699117193,
+    "amm_price": 500,
+    "external_price": 1986.3972679129695,
+    "trade_size": 4935
+  },
+  {
+    "tradeNumber": 233,
+    "timestamp": 1699117194,
+    "amm_price": 500,
+    "external_price": 1985.4118704495754,
+    "trade_size": 1692
+  },
+  {
+    "tradeNumber": 234,
+    "timestamp": 1699117195,
+    "amm_price": 500,
+    "external_price": 1986.3167968229607,
+    "trade_size": 4314
+  },
+  {
+    "tradeNumber": 235,
+    "timestamp": 1699117196,
+    "amm_price": 500,
+    "external_price": 1983.4714333768127,
+    "trade_size": 2559
+  },
+  {
+    "tradeNumber": 236,
+    "timestamp": 1699117197,
+    "amm_price": 500,
+    "external_price": 1986.4199830685723,
+    "trade_size": 2265
+  },
+  {
+    "tradeNumber": 237,
+    "timestamp": 1699117198,
+    "amm_price": 500,
+    "external_price": 1987.6522082900601,
+    "trade_size": 3117
+  },
+  {
+    "tradeNumber": 238,
+    "timestamp": 1699117199,
+    "amm_price": 500,
+    "external_price": 1989.980148867772,
+    "trade_size": 4479
+  },
+  {
+    "tradeNumber": 239,
+    "timestamp": 1699117200,
+    "amm_price": 500,
+    "external_price": 1990.6442264512527,
+    "trade_size": 3268
+  },
+  {
+    "tradeNumber": 240,
+    "timestamp": 1699117201,
+    "amm_price": 500,
+    "external_price": 1991.4362608132792,
+    "trade_size": 2984
+  },
+  {
+    "tradeNumber": 241,
+    "timestamp": 1699117202,
+    "amm_price": 500,
+    "external_price": 1988.5687540509248,
+    "trade_size": 1987
+  },
+  {
+    "tradeNumber": 242,
+    "timestamp": 1699117203,
+    "amm_price": 500,
+    "external_price": 1986.7557161819173,
+    "trade_size": 3400
+  },
+  {
+    "tradeNumber": 243,
+    "timestamp": 1699117204,
+    "amm_price": 500,
+    "external_price": 1986.2372856668173,
+    "trade_size": 3082
+  },
+  {
+    "tradeNumber": 244,
+    "timestamp": 1699117205,
+    "amm_price": 500,
+    "external_price": 1986.119578088607,
+    "trade_size": 2755
+  },
+  {
+    "tradeNumber": 245,
+    "timestamp": 1699117206,
+    "amm_price": 500,
+    "external_price": 1984.6436674088104,
+    "trade_size": 2031
+  },
+  {
+    "tradeNumber": 246,
+    "timestamp": 1699117207,
+    "amm_price": 500,
+    "external_price": 1986.5585300358257,
+    "trade_size": 4804
+  },
+  {
+    "tradeNumber": 247,
+    "timestamp": 1699117208,
+    "amm_price": 500,
+    "external_price": 1985.6551536498976,
+    "trade_size": 4060
+  },
+  {
+    "tradeNumber": 248,
+    "timestamp": 1699117209,
+    "amm_price": 500,
+    "external_price": 1983.3648256283964,
+    "trade_size": 3892
+  },
+  {
+    "tradeNumber": 249,
+    "timestamp": 1699117210,
+    "amm_price": 500,
+    "external_price": 1985.578104944307,
+    "trade_size": 1210
+  },
+  {
+    "tradeNumber": 250,
+    "timestamp": 1699117211,
+    "amm_price": 500,
+    "external_price": 1988.4680927153297,
+    "trade_size": 1069
+  },
+  {
+    "tradeNumber": 251,
+    "timestamp": 1699117212,
+    "amm_price": 500,
+    "external_price": 1990.3792732462998,
+    "trade_size": 1427
+  },
+  {
+    "tradeNumber": 252,
+    "timestamp": 1699117213,
+    "amm_price": 500,
+    "external_price": 1989.917764828579,
+    "trade_size": 4983
+  },
+  {
+    "tradeNumber": 253,
+    "timestamp": 1699117214,
+    "amm_price": 500,
+    "external_price": 1989.3421744119323,
+    "trade_size": 4806
+  },
+  {
+    "tradeNumber": 254,
+    "timestamp": 1699117215,
+    "amm_price": 500,
+    "external_price": 1987.8543445501664,
+    "trade_size": 2597
+  },
+  {
+    "tradeNumber": 255,
+    "timestamp": 1699117216,
+    "amm_price": 500,
+    "external_price": 1989.8998192300287,
+    "trade_size": 2509
+  },
+  {
+    "tradeNumber": 256,
+    "timestamp": 1699117217,
+    "amm_price": 500,
+    "external_price": 1992.0162576570567,
+    "trade_size": 3158
+  },
+  {
+    "tradeNumber": 257,
+    "timestamp": 1699117218,
+    "amm_price": 500,
+    "external_price": 1991.0174806810642,
+    "trade_size": 2799
+  },
+  {
+    "tradeNumber": 258,
+    "timestamp": 1699117219,
+    "amm_price": 500,
+    "external_price": 1990.821491691334,
+    "trade_size": 2298
+  },
+  {
+    "tradeNumber": 259,
+    "timestamp": 1699117220,
+    "amm_price": 500,
+    "external_price": 1993.5740349565413,
+    "trade_size": 2644
+  },
+  {
+    "tradeNumber": 260,
+    "timestamp": 1699117221,
+    "amm_price": 500,
+    "external_price": 1995.7052972336169,
+    "trade_size": 2596
+  },
+  {
+    "tradeNumber": 261,
+    "timestamp": 1699117222,
+    "amm_price": 500,
+    "external_price": 1993.4332726673374,
+    "trade_size": 3345
+  },
+  {
+    "tradeNumber": 262,
+    "timestamp": 1699117223,
+    "amm_price": 500,
+    "external_price": 1991.2924710066623,
+    "trade_size": 1635
+  },
+  {
+    "tradeNumber": 263,
+    "timestamp": 1699117224,
+    "amm_price": 500,
+    "external_price": 1989.8585547196662,
+    "trade_size": 4057
+  },
+  {
+    "tradeNumber": 264,
+    "timestamp": 1699117225,
+    "amm_price": 500,
+    "external_price": 1989.0829752270502,
+    "trade_size": 3383
+  },
+  {
+    "tradeNumber": 265,
+    "timestamp": 1699117226,
+    "amm_price": 500,
+    "external_price": 1988.923793786337,
+    "trade_size": 2088
+  },
+  {
+    "tradeNumber": 266,
+    "timestamp": 1699117227,
+    "amm_price": 500,
+    "external_price": 1987.8921324402797,
+    "trade_size": 4895
+  },
+  {
+    "tradeNumber": 267,
+    "timestamp": 1699117228,
+    "amm_price": 500,
+    "external_price": 1988.021343304759,
+    "trade_size": 4417
+  },
+  {
+    "tradeNumber": 268,
+    "timestamp": 1699117229,
+    "amm_price": 500,
+    "external_price": 1986.8066835298412,
+    "trade_size": 4254
+  },
+  {
+    "tradeNumber": 269,
+    "timestamp": 1699117230,
+    "amm_price": 500,
+    "external_price": 1985.8288093229537,
+    "trade_size": 3690
+  },
+  {
+    "tradeNumber": 270,
+    "timestamp": 1699117231,
+    "amm_price": 500,
+    "external_price": 1987.1439060186797,
+    "trade_size": 1622
+  },
+  {
+    "tradeNumber": 271,
+    "timestamp": 1699117232,
+    "amm_price": 500,
+    "external_price": 1988.1217872677198,
+    "trade_size": 4893
+  },
+  {
+    "tradeNumber": 272,
+    "timestamp": 1699117233,
+    "amm_price": 500,
+    "external_price": 1990.099806949962,
+    "trade_size": 1807
+  },
+  {
+    "tradeNumber": 273,
+    "timestamp": 1699117234,
+    "amm_price": 500,
+    "external_price": 1992.5123078025736,
+    "trade_size": 4214
+  },
+  {
+    "tradeNumber": 274,
+    "timestamp": 1699117235,
+    "amm_price": 500,
+    "external_price": 1991.9353828364879,
+    "trade_size": 2924
+  },
+  {
+    "tradeNumber": 275,
+    "timestamp": 1699117236,
+    "amm_price": 500,
+    "external_price": 1992.9658317037472,
+    "trade_size": 4960
+  },
+  {
+    "tradeNumber": 276,
+    "timestamp": 1699117237,
+    "amm_price": 500,
+    "external_price": 1990.9662317925156,
+    "trade_size": 4072
+  },
+  {
+    "tradeNumber": 277,
+    "timestamp": 1699117238,
+    "amm_price": 500,
+    "external_price": 1993.724052114527,
+    "trade_size": 3042
+  },
+  {
+    "tradeNumber": 278,
+    "timestamp": 1699117239,
+    "amm_price": 500,
+    "external_price": 1996.4677198950787,
+    "trade_size": 3348
+  },
+  {
+    "tradeNumber": 279,
+    "timestamp": 1699117240,
+    "amm_price": 500,
+    "external_price": 1996.2977740502693,
+    "trade_size": 3518
+  },
+  {
+    "tradeNumber": 280,
+    "timestamp": 1699117241,
+    "amm_price": 500,
+    "external_price": 1994.3108327897462,
+    "trade_size": 1629
+  },
+  {
+    "tradeNumber": 281,
+    "timestamp": 1699117242,
+    "amm_price": 500,
+    "external_price": 1994.8979860979075,
+    "trade_size": 3145
+  },
+  {
+    "tradeNumber": 282,
+    "timestamp": 1699117243,
+    "amm_price": 500,
+    "external_price": 1993.014444658967,
+    "trade_size": 4620
+  },
+  {
+    "tradeNumber": 283,
+    "timestamp": 1699117244,
+    "amm_price": 500,
+    "external_price": 1990.9162190808074,
+    "trade_size": 4644
+  },
+  {
+    "tradeNumber": 284,
+    "timestamp": 1699117245,
+    "amm_price": 500,
+    "external_price": 1989.6565307509475,
+    "trade_size": 2288
+  },
+  {
+    "tradeNumber": 285,
+    "timestamp": 1699117246,
+    "amm_price": 500,
+    "external_price": 1987.0111988103472,
+    "trade_size": 4124
+  },
+  {
+    "tradeNumber": 286,
+    "timestamp": 1699117247,
+    "amm_price": 500,
+    "external_price": 1984.4495754697045,
+    "trade_size": 3150
+  },
+  {
+    "tradeNumber": 287,
+    "timestamp": 1699117248,
+    "amm_price": 500,
+    "external_price": 1985.4464074974128,
+    "trade_size": 2598
+  },
+  {
+    "tradeNumber": 288,
+    "timestamp": 1699117249,
+    "amm_price": 500,
+    "external_price": 1983.5313559305475,
+    "trade_size": 4570
+  },
+  {
+    "tradeNumber": 289,
+    "timestamp": 1699117250,
+    "amm_price": 500,
+    "external_price": 1982.9581999620127,
+    "trade_size": 3028
+  },
+  {
+    "tradeNumber": 290,
+    "timestamp": 1699117251,
+    "amm_price": 500,
+    "external_price": 1980.0725367947744,
+    "trade_size": 1799
+  },
+  {
+    "tradeNumber": 291,
+    "timestamp": 1699117252,
+    "amm_price": 500,
+    "external_price": 1977.72626507721,
+    "trade_size": 2535
+  },
+  {
+    "tradeNumber": 292,
+    "timestamp": 1699117253,
+    "amm_price": 500,
+    "external_price": 1975.1105258140801,
+    "trade_size": 4906
+  },
+  {
+    "tradeNumber": 293,
+    "timestamp": 1699117254,
+    "amm_price": 500,
+    "external_price": 1976.3835231477226,
+    "trade_size": 1525
+  },
+  {
+    "tradeNumber": 294,
+    "timestamp": 1699117255,
+    "amm_price": 500,
+    "external_price": 1978.1650941142814,
+    "trade_size": 4179
+  },
+  {
+    "tradeNumber": 295,
+    "timestamp": 1699117256,
+    "amm_price": 500,
+    "external_price": 1976.3601607628918,
+    "trade_size": 2220
+  },
+  {
+    "tradeNumber": 296,
+    "timestamp": 1699117257,
+    "amm_price": 500,
+    "external_price": 1975.419641367875,
+    "trade_size": 4942
+  },
+  {
+    "tradeNumber": 297,
+    "timestamp": 1699117258,
+    "amm_price": 500,
+    "external_price": 1974.836889459037,
+    "trade_size": 2338
+  },
+  {
+    "tradeNumber": 298,
+    "timestamp": 1699117259,
+    "amm_price": 500,
+    "external_price": 1976.5337855968244,
+    "trade_size": 4454
+  },
+  {
+    "tradeNumber": 299,
+    "timestamp": 1699117260,
+    "amm_price": 500,
+    "external_price": 1973.6727518276803,
+    "trade_size": 4442
+  },
+  {
+    "tradeNumber": 300,
+    "timestamp": 1699117261,
+    "amm_price": 500,
+    "external_price": 1975.1188856447652,
+    "trade_size": 4635
+  },
+  {
+    "tradeNumber": 301,
+    "timestamp": 1699117262,
+    "amm_price": 500,
+    "external_price": 1975.994081621891,
+    "trade_size": 2247
+  },
+  {
+    "tradeNumber": 302,
+    "timestamp": 1699117263,
+    "amm_price": 500,
+    "external_price": 1978.3095364727815,
+    "trade_size": 3525
+  },
+  {
+    "tradeNumber": 303,
+    "timestamp": 1699117264,
+    "amm_price": 500,
+    "external_price": 1977.320601328639,
+    "trade_size": 1513
+  },
+  {
+    "tradeNumber": 304,
+    "timestamp": 1699117265,
+    "amm_price": 500,
+    "external_price": 1976.3918132002486,
+    "trade_size": 1916
+  },
+  {
+    "tradeNumber": 305,
+    "timestamp": 1699117266,
+    "amm_price": 500,
+    "external_price": 1976.4675297641436,
+    "trade_size": 2751
+  },
+  {
+    "tradeNumber": 306,
+    "timestamp": 1699117267,
+    "amm_price": 500,
+    "external_price": 1976.9589477434133,
+    "trade_size": 3322
+  },
+  {
+    "tradeNumber": 307,
+    "timestamp": 1699117268,
+    "amm_price": 500,
+    "external_price": 1975.005537952726,
+    "trade_size": 3727
+  },
+  {
+    "tradeNumber": 308,
+    "timestamp": 1699117269,
+    "amm_price": 500,
+    "external_price": 1973.4494351910773,
+    "trade_size": 2917
+  },
+  {
+    "tradeNumber": 309,
+    "timestamp": 1699117270,
+    "amm_price": 500,
+    "external_price": 1975.0168280349171,
+    "trade_size": 3450
+  },
+  {
+    "tradeNumber": 310,
+    "timestamp": 1699117271,
+    "amm_price": 500,
+    "external_price": 1972.3726871270076,
+    "trade_size": 2036
+  },
+  {
+    "tradeNumber": 311,
+    "timestamp": 1699117272,
+    "amm_price": 500,
+    "external_price": 1973.242158227763,
+    "trade_size": 3773
+  },
+  {
+    "tradeNumber": 312,
+    "timestamp": 1699117273,
+    "amm_price": 500,
+    "external_price": 1974.410164220082,
+    "trade_size": 2812
+  },
+  {
+    "tradeNumber": 313,
+    "timestamp": 1699117274,
+    "amm_price": 500,
+    "external_price": 1971.955179247784,
+    "trade_size": 1641
+  },
+  {
+    "tradeNumber": 314,
+    "timestamp": 1699117275,
+    "amm_price": 500,
+    "external_price": 1974.2945883994125,
+    "trade_size": 4769
+  },
+  {
+    "tradeNumber": 315,
+    "timestamp": 1699117276,
+    "amm_price": 500,
+    "external_price": 1975.2224803662853,
+    "trade_size": 4457
+  },
+  {
+    "tradeNumber": 316,
+    "timestamp": 1699117277,
+    "amm_price": 500,
+    "external_price": 1977.8208522763991,
+    "trade_size": 2452
+  },
+  {
+    "tradeNumber": 317,
+    "timestamp": 1699117278,
+    "amm_price": 500,
+    "external_price": 1975.4992029833504,
+    "trade_size": 2506
+  },
+  {
+    "tradeNumber": 318,
+    "timestamp": 1699117279,
+    "amm_price": 500,
+    "external_price": 1976.2003907142118,
+    "trade_size": 1613
+  },
+  {
+    "tradeNumber": 319,
+    "timestamp": 1699117280,
+    "amm_price": 500,
+    "external_price": 1977.2958989124113,
+    "trade_size": 4777
+  },
+  {
+    "tradeNumber": 320,
+    "timestamp": 1699117281,
+    "amm_price": 500,
+    "external_price": 1979.7112140487736,
+    "trade_size": 4619
+  },
+  {
+    "tradeNumber": 321,
+    "timestamp": 1699117282,
+    "amm_price": 500,
+    "external_price": 1977.1507721346675,
+    "trade_size": 1900
+  },
+  {
+    "tradeNumber": 322,
+    "timestamp": 1699117283,
+    "amm_price": 500,
+    "external_price": 1979.7637020506143,
+    "trade_size": 1787
+  },
+  {
+    "tradeNumber": 323,
+    "timestamp": 1699117284,
+    "amm_price": 500,
+    "external_price": 1977.2669533836486,
+    "trade_size": 4673
+  },
+  {
+    "tradeNumber": 324,
+    "timestamp": 1699117285,
+    "amm_price": 500,
+    "external_price": 1974.5163599936407,
+    "trade_size": 1791
+  },
+  {
+    "tradeNumber": 325,
+    "timestamp": 1699117286,
+    "amm_price": 500,
+    "external_price": 1976.8190764883345,
+    "trade_size": 4265
+  },
+  {
+    "tradeNumber": 326,
+    "timestamp": 1699117287,
+    "amm_price": 500,
+    "external_price": 1978.3980395775925,
+    "trade_size": 1349
+  },
+  {
+    "tradeNumber": 327,
+    "timestamp": 1699117288,
+    "amm_price": 500,
+    "external_price": 1978.5681718351395,
+    "trade_size": 1512
+  },
+  {
+    "tradeNumber": 328,
+    "timestamp": 1699117289,
+    "amm_price": 500,
+    "external_price": 1980.2541473772358,
+    "trade_size": 2803
+  },
+  {
+    "tradeNumber": 329,
+    "timestamp": 1699117290,
+    "amm_price": 500,
+    "external_price": 1982.5264074220584,
+    "trade_size": 3150
+  },
+  {
+    "tradeNumber": 330,
+    "timestamp": 1699117291,
+    "amm_price": 500,
+    "external_price": 1983.3541399780484,
+    "trade_size": 3584
+  },
+  {
+    "tradeNumber": 331,
+    "timestamp": 1699117292,
+    "amm_price": 500,
+    "external_price": 1981.1558102450492,
+    "trade_size": 2569
+  },
+  {
+    "tradeNumber": 332,
+    "timestamp": 1699117293,
+    "amm_price": 500,
+    "external_price": 1981.959034111746,
+    "trade_size": 4132
+  },
+  {
+    "tradeNumber": 333,
+    "timestamp": 1699117294,
+    "amm_price": 500,
+    "external_price": 1979.2515520839859,
+    "trade_size": 1537
+  },
+  {
+    "tradeNumber": 334,
+    "timestamp": 1699117295,
+    "amm_price": 500,
+    "external_price": 1976.8772751257059,
+    "trade_size": 2547
+  },
+  {
+    "tradeNumber": 335,
+    "timestamp": 1699117296,
+    "amm_price": 500,
+    "external_price": 1976.9057928242864,
+    "trade_size": 3338
+  },
+  {
+    "tradeNumber": 336,
+    "timestamp": 1699117297,
+    "amm_price": 500,
+    "external_price": 1978.108018390007,
+    "trade_size": 3156
+  },
+  {
+    "tradeNumber": 337,
+    "timestamp": 1699117298,
+    "amm_price": 500,
+    "external_price": 1977.6140523692463,
+    "trade_size": 1320
+  },
+  {
+    "tradeNumber": 338,
+    "timestamp": 1699117299,
+    "amm_price": 500,
+    "external_price": 1975.1999527336136,
+    "trade_size": 4561
+  },
+  {
+    "tradeNumber": 339,
+    "timestamp": 1699117300,
+    "amm_price": 500,
+    "external_price": 1977.237710636557,
+    "trade_size": 4032
+  },
+  {
+    "tradeNumber": 340,
+    "timestamp": 1699117301,
+    "amm_price": 500,
+    "external_price": 1976.2492386089234,
+    "trade_size": 4094
+  },
+  {
+    "tradeNumber": 341,
+    "timestamp": 1699117302,
+    "amm_price": 500,
+    "external_price": 1978.2504369658307,
+    "trade_size": 4112
+  },
+  {
+    "tradeNumber": 342,
+    "timestamp": 1699117303,
+    "amm_price": 500,
+    "external_price": 1976.1523758321348,
+    "trade_size": 3062
+  },
+  {
+    "tradeNumber": 343,
+    "timestamp": 1699117304,
+    "amm_price": 500,
+    "external_price": 1977.6318413851307,
+    "trade_size": 4738
+  },
+  {
+    "tradeNumber": 344,
+    "timestamp": 1699117305,
+    "amm_price": 500,
+    "external_price": 1980.3823741723513,
+    "trade_size": 2216
+  },
+  {
+    "tradeNumber": 345,
+    "timestamp": 1699117306,
+    "amm_price": 500,
+    "external_price": 1979.2958363263726,
+    "trade_size": 1184
+  },
+  {
+    "tradeNumber": 346,
+    "timestamp": 1699117307,
+    "amm_price": 500,
+    "external_price": 1981.2579376676222,
+    "trade_size": 4258
+  },
+  {
+    "tradeNumber": 347,
+    "timestamp": 1699117308,
+    "amm_price": 500,
+    "external_price": 1979.3339526596435,
+    "trade_size": 2887
+  },
+  {
+    "tradeNumber": 348,
+    "timestamp": 1699117309,
+    "amm_price": 499.9999999999999,
+    "external_price": 1978.0374513072743,
+    "trade_size": 3151
+  },
+  {
+    "tradeNumber": 349,
+    "timestamp": 1699117310,
+    "amm_price": 500,
+    "external_price": 1979.737659273686,
+    "trade_size": 2956
+  },
+  {
+    "tradeNumber": 350,
+    "timestamp": 1699117311,
+    "amm_price": 500,
+    "external_price": 1978.9854403383313,
+    "trade_size": 3559
+  },
+  {
+    "tradeNumber": 351,
+    "timestamp": 1699117312,
+    "amm_price": 500,
+    "external_price": 1978.9344748987953,
+    "trade_size": 1953
+  },
+  {
+    "tradeNumber": 352,
+    "timestamp": 1699117313,
+    "amm_price": 500,
+    "external_price": 1977.5330895709594,
+    "trade_size": 3832
+  },
+  {
+    "tradeNumber": 353,
+    "timestamp": 1699117314,
+    "amm_price": 500,
+    "external_price": 1977.0609747637966,
+    "trade_size": 4844
+  },
+  {
+    "tradeNumber": 354,
+    "timestamp": 1699117315,
+    "amm_price": 500,
+    "external_price": 1978.7560030229167,
+    "trade_size": 3254
+  },
+  {
+    "tradeNumber": 355,
+    "timestamp": 1699117316,
+    "amm_price": 500,
+    "external_price": 1978.872833770263,
+    "trade_size": 2051
+  },
+  {
+    "tradeNumber": 356,
+    "timestamp": 1699117317,
+    "amm_price": 500,
+    "external_price": 1980.869429110352,
+    "trade_size": 3244
+  },
+  {
+    "tradeNumber": 357,
+    "timestamp": 1699117318,
+    "amm_price": 500,
+    "external_price": 1982.8751064191238,
+    "trade_size": 3378
+  },
+  {
+    "tradeNumber": 358,
+    "timestamp": 1699117319,
+    "amm_price": 500,
+    "external_price": 1981.481113673686,
+    "trade_size": 4486
+  },
+  {
+    "tradeNumber": 359,
+    "timestamp": 1699117320,
+    "amm_price": 500,
+    "external_price": 1978.7713685997192,
+    "trade_size": 4997
+  },
+  {
+    "tradeNumber": 360,
+    "timestamp": 1699117321,
+    "amm_price": 500,
+    "external_price": 1977.5957867076083,
+    "trade_size": 1636
+  },
+  {
+    "tradeNumber": 361,
+    "timestamp": 1699117322,
+    "amm_price": 499.9999999999999,
+    "external_price": 1977.3305690777588,
+    "trade_size": 2225
+  },
+  {
+    "tradeNumber": 362,
+    "timestamp": 1699117323,
+    "amm_price": 500,
+    "external_price": 1974.9380240946025,
+    "trade_size": 4309
+  },
+  {
+    "tradeNumber": 363,
+    "timestamp": 1699117324,
+    "amm_price": 500,
+    "external_price": 1973.6614982586434,
+    "trade_size": 1245
+  },
+  {
+    "tradeNumber": 364,
+    "timestamp": 1699117325,
+    "amm_price": 499.9999999999999,
+    "external_price": 1974.162165506474,
+    "trade_size": 3185
+  },
+  {
+    "tradeNumber": 365,
+    "timestamp": 1699117326,
+    "amm_price": 500,
+    "external_price": 1972.1378386324075,
+    "trade_size": 2071
+  },
+  {
+    "tradeNumber": 366,
+    "timestamp": 1699117327,
+    "amm_price": 500,
+    "external_price": 1969.6249461959999,
+    "trade_size": 2189
+  },
+  {
+    "tradeNumber": 367,
+    "timestamp": 1699117328,
+    "amm_price": 500,
+    "external_price": 1972.283194677248,
+    "trade_size": 4064
+  },
+  {
+    "tradeNumber": 368,
+    "timestamp": 1699117329,
+    "amm_price": 500,
+    "external_price": 1974.3936830456569,
+    "trade_size": 1340
+  },
+  {
+    "tradeNumber": 369,
+    "timestamp": 1699117330,
+    "amm_price": 500,
+    "external_price": 1971.8363696658382,
+    "trade_size": 4881
+  },
+  {
+    "tradeNumber": 370,
+    "timestamp": 1699117331,
+    "amm_price": 500,
+    "external_price": 1971.0596632823695,
+    "trade_size": 2616
+  },
+  {
+    "tradeNumber": 371,
+    "timestamp": 1699117332,
+    "amm_price": 500,
+    "external_price": 1968.9941023807005,
+    "trade_size": 1043
+  },
+  {
+    "tradeNumber": 372,
+    "timestamp": 1699117333,
+    "amm_price": 500,
+    "external_price": 1967.849664847639,
+    "trade_size": 4804
+  },
+  {
+    "tradeNumber": 373,
+    "timestamp": 1699117334,
+    "amm_price": 500,
+    "external_price": 1968.7261306178345,
+    "trade_size": 1409
+  },
+  {
+    "tradeNumber": 374,
+    "timestamp": 1699117335,
+    "amm_price": 500,
+    "external_price": 1970.4058325035282,
+    "trade_size": 3177
+  },
+  {
+    "tradeNumber": 375,
+    "timestamp": 1699117336,
+    "amm_price": 500,
+    "external_price": 1968.8766959375462,
+    "trade_size": 4632
+  },
+  {
+    "tradeNumber": 376,
+    "timestamp": 1699117337,
+    "amm_price": 500,
+    "external_price": 1969.1412634862716,
+    "trade_size": 1810
+  },
+  {
+    "tradeNumber": 377,
+    "timestamp": 1699117338,
+    "amm_price": 500,
+    "external_price": 1969.9156271609406,
+    "trade_size": 4171
+  },
+  {
+    "tradeNumber": 378,
+    "timestamp": 1699117339,
+    "amm_price": 500,
+    "external_price": 1970.3747328631978,
+    "trade_size": 3970
+  },
+  {
+    "tradeNumber": 379,
+    "timestamp": 1699117340,
+    "amm_price": 499.9999999999999,
+    "external_price": 1973.2358399840082,
+    "trade_size": 2468
+  },
+  {
+    "tradeNumber": 380,
+    "timestamp": 1699117341,
+    "amm_price": 500,
+    "external_price": 1973.0572940425575,
+    "trade_size": 4603
+  },
+  {
+    "tradeNumber": 381,
+    "timestamp": 1699117342,
+    "amm_price": 500,
+    "external_price": 1973.253575085473,
+    "trade_size": 1985
+  },
+  {
+    "tradeNumber": 382,
+    "timestamp": 1699117343,
+    "amm_price": 500,
+    "external_price": 1971.26772442854,
+    "trade_size": 3495
+  },
+  {
+    "tradeNumber": 383,
+    "timestamp": 1699117344,
+    "amm_price": 500,
+    "external_price": 1970.5377997205449,
+    "trade_size": 3575
+  },
+  {
+    "tradeNumber": 384,
+    "timestamp": 1699117345,
+    "amm_price": 499.9999999999999,
+    "external_price": 1969.1861852335323,
+    "trade_size": 2572
+  },
+  {
+    "tradeNumber": 385,
+    "timestamp": 1699117346,
+    "amm_price": 500,
+    "external_price": 1971.382768000828,
+    "trade_size": 3639
+  },
+  {
+    "tradeNumber": 386,
+    "timestamp": 1699117347,
+    "amm_price": 500,
+    "external_price": 1969.936528811567,
+    "trade_size": 1992
+  },
+  {
+    "tradeNumber": 387,
+    "timestamp": 1699117348,
+    "amm_price": 500,
+    "external_price": 1971.1474502129859,
+    "trade_size": 1629
+  },
+  {
+    "tradeNumber": 388,
+    "timestamp": 1699117349,
+    "amm_price": 500,
+    "external_price": 1971.961136204712,
+    "trade_size": 1390
+  },
+  {
+    "tradeNumber": 389,
+    "timestamp": 1699117350,
+    "amm_price": 500,
+    "external_price": 1969.2400734038026,
+    "trade_size": 4238
+  },
+  {
+    "tradeNumber": 390,
+    "timestamp": 1699117351,
+    "amm_price": 500,
+    "external_price": 1967.807185013221,
+    "trade_size": 2352
+  },
+  {
+    "tradeNumber": 391,
+    "timestamp": 1699117352,
+    "amm_price": 500,
+    "external_price": 1967.3951608916886,
+    "trade_size": 2561
+  },
+  {
+    "tradeNumber": 392,
+    "timestamp": 1699117353,
+    "amm_price": 499.9999999999999,
+    "external_price": 1965.1745718392208,
+    "trade_size": 4911
+  },
+  {
+    "tradeNumber": 393,
+    "timestamp": 1699117354,
+    "amm_price": 500,
+    "external_price": 1965.7068287994955,
+    "trade_size": 2377
+  },
+  {
+    "tradeNumber": 394,
+    "timestamp": 1699117355,
+    "amm_price": 500,
+    "external_price": 1965.6896095062696,
+    "trade_size": 1901
+  },
+  {
+    "tradeNumber": 395,
+    "timestamp": 1699117356,
+    "amm_price": 500,
+    "external_price": 1966.4737622131372,
+    "trade_size": 3248
+  },
+  {
+    "tradeNumber": 396,
+    "timestamp": 1699117357,
+    "amm_price": 500,
+    "external_price": 1967.4494749916241,
+    "trade_size": 4485
+  },
+  {
+    "tradeNumber": 397,
+    "timestamp": 1699117358,
+    "amm_price": 500,
+    "external_price": 1968.6577464255895,
+    "trade_size": 2482
+  },
+  {
+    "tradeNumber": 398,
+    "timestamp": 1699117359,
+    "amm_price": 500,
+    "external_price": 1967.0692799652873,
+    "trade_size": 3180
+  },
+  {
+    "tradeNumber": 399,
+    "timestamp": 1699117360,
+    "amm_price": 500,
+    "external_price": 1966.9089330806994,
+    "trade_size": 1807
+  },
+  {
+    "tradeNumber": 400,
+    "timestamp": 1699117361,
+    "amm_price": 500,
+    "external_price": 1968.3011806628947,
+    "trade_size": 1189
+  },
+  {
+    "tradeNumber": 401,
+    "timestamp": 1699117362,
+    "amm_price": 500,
+    "external_price": 1966.914933939075,
+    "trade_size": 4440
+  },
+  {
+    "tradeNumber": 402,
+    "timestamp": 1699117363,
+    "amm_price": 500,
+    "external_price": 1966.096791636211,
+    "trade_size": 2749
+  },
+  {
+    "tradeNumber": 403,
+    "timestamp": 1699117364,
+    "amm_price": 500,
+    "external_price": 1966.1748424738903,
+    "trade_size": 1359
+  },
+  {
+    "tradeNumber": 404,
+    "timestamp": 1699117365,
+    "amm_price": 500,
+    "external_price": 1965.122749221484,
+    "trade_size": 4270
+  },
+  {
+    "tradeNumber": 405,
+    "timestamp": 1699117366,
+    "amm_price": 500,
+    "external_price": 1964.586972262936,
+    "trade_size": 2735
+  },
+  {
+    "tradeNumber": 406,
+    "timestamp": 1699117367,
+    "amm_price": 500,
+    "external_price": 1964.6545302715379,
+    "trade_size": 4947
+  },
+  {
+    "tradeNumber": 407,
+    "timestamp": 1699117368,
+    "amm_price": 500,
+    "external_price": 1966.5389883149774,
+    "trade_size": 1129
+  },
+  {
+    "tradeNumber": 408,
+    "timestamp": 1699117369,
+    "amm_price": 500,
+    "external_price": 1967.9944011796697,
+    "trade_size": 1390
+  },
+  {
+    "tradeNumber": 409,
+    "timestamp": 1699117370,
+    "amm_price": 499.9999999999999,
+    "external_price": 1968.4754129824007,
+    "trade_size": 1303
+  },
+  {
+    "tradeNumber": 410,
+    "timestamp": 1699117371,
+    "amm_price": 500,
+    "external_price": 1967.3626508328502,
+    "trade_size": 2332
+  },
+  {
+    "tradeNumber": 411,
+    "timestamp": 1699117372,
+    "amm_price": 500,
+    "external_price": 1964.532313061755,
+    "trade_size": 2364
+  },
+  {
+    "tradeNumber": 412,
+    "timestamp": 1699117373,
+    "amm_price": 500,
+    "external_price": 1962.6844871200046,
+    "trade_size": 4387
+  },
+  {
+    "tradeNumber": 413,
+    "timestamp": 1699117374,
+    "amm_price": 500,
+    "external_price": 1960.9864737889716,
+    "trade_size": 4307
+  },
+  {
+    "tradeNumber": 414,
+    "timestamp": 1699117375,
+    "amm_price": 500,
+    "external_price": 1959.9196788811998,
+    "trade_size": 1796
+  },
+  {
+    "tradeNumber": 415,
+    "timestamp": 1699117376,
+    "amm_price": 500,
+    "external_price": 1960.541528359796,
+    "trade_size": 3546
+  },
+  {
+    "tradeNumber": 416,
+    "timestamp": 1699117377,
+    "amm_price": 500,
+    "external_price": 1959.2976468151378,
+    "trade_size": 4506
+  },
+  {
+    "tradeNumber": 417,
+    "timestamp": 1699117378,
+    "amm_price": 500,
+    "external_price": 1957.4782264807272,
+    "trade_size": 3571
+  },
+  {
+    "tradeNumber": 418,
+    "timestamp": 1699117379,
+    "amm_price": 500,
+    "external_price": 1957.0404852673603,
+    "trade_size": 1645
+  },
+  {
+    "tradeNumber": 419,
+    "timestamp": 1699117380,
+    "amm_price": 500,
+    "external_price": 1956.0391992129523,
+    "trade_size": 1747
+  },
+  {
+    "tradeNumber": 420,
+    "timestamp": 1699117381,
+    "amm_price": 500,
+    "external_price": 1956.860054138068,
+    "trade_size": 4702
+  },
+  {
+    "tradeNumber": 421,
+    "timestamp": 1699117382,
+    "amm_price": 500,
+    "external_price": 1959.7430430849467,
+    "trade_size": 4066
+  },
+  {
+    "tradeNumber": 422,
+    "timestamp": 1699117383,
+    "amm_price": 499.9999999999999,
+    "external_price": 1957.8910961476802,
+    "trade_size": 4915
+  },
+  {
+    "tradeNumber": 423,
+    "timestamp": 1699117384,
+    "amm_price": 500,
+    "external_price": 1959.279559328539,
+    "trade_size": 3524
+  },
+  {
+    "tradeNumber": 424,
+    "timestamp": 1699117385,
+    "amm_price": 500,
+    "external_price": 1960.231624997813,
+    "trade_size": 1985
+  },
+  {
+    "tradeNumber": 425,
+    "timestamp": 1699117386,
+    "amm_price": 500,
+    "external_price": 1961.0896059667753,
+    "trade_size": 2950
+  },
+  {
+    "tradeNumber": 426,
+    "timestamp": 1699117387,
+    "amm_price": 500,
+    "external_price": 1962.9441909957059,
+    "trade_size": 2087
+  },
+  {
+    "tradeNumber": 427,
+    "timestamp": 1699117388,
+    "amm_price": 499.9999999999999,
+    "external_price": 1963.203429054999,
+    "trade_size": 4733
+  },
+  {
+    "tradeNumber": 428,
+    "timestamp": 1699117389,
+    "amm_price": 500,
+    "external_price": 1964.2604137560072,
+    "trade_size": 2185
+  },
+  {
+    "tradeNumber": 429,
+    "timestamp": 1699117390,
+    "amm_price": 500,
+    "external_price": 1961.6710533430958,
+    "trade_size": 3990
+  },
+  {
+    "tradeNumber": 430,
+    "timestamp": 1699117391,
+    "amm_price": 499.9999999999999,
+    "external_price": 1960.5156721399305,
+    "trade_size": 3421
+  },
+  {
+    "tradeNumber": 431,
+    "timestamp": 1699117392,
+    "amm_price": 500,
+    "external_price": 1961.751456574621,
+    "trade_size": 3845
+  },
+  {
+    "tradeNumber": 432,
+    "timestamp": 1699117393,
+    "amm_price": 500,
+    "external_price": 1964.4554809061276,
+    "trade_size": 3662
+  },
+  {
+    "tradeNumber": 433,
+    "timestamp": 1699117394,
+    "amm_price": 500,
+    "external_price": 1966.6344201547424,
+    "trade_size": 2529
+  },
+  {
+    "tradeNumber": 434,
+    "timestamp": 1699117395,
+    "amm_price": 500,
+    "external_price": 1969.0246258697632,
+    "trade_size": 2581
+  },
+  {
+    "tradeNumber": 435,
+    "timestamp": 1699117396,
+    "amm_price": 500,
+    "external_price": 1967.2719743100388,
+    "trade_size": 4279
+  },
+  {
+    "tradeNumber": 436,
+    "timestamp": 1699117397,
+    "amm_price": 500,
+    "external_price": 1967.6493356211097,
+    "trade_size": 3120
+  },
+  {
+    "tradeNumber": 437,
+    "timestamp": 1699117398,
+    "amm_price": 500,
+    "external_price": 1968.4979078297044,
+    "trade_size": 1421
+  },
+  {
+    "tradeNumber": 438,
+    "timestamp": 1699117399,
+    "amm_price": 500,
+    "external_price": 1967.8988005082526,
+    "trade_size": 1911
+  },
+  {
+    "tradeNumber": 439,
+    "timestamp": 1699117400,
+    "amm_price": 500,
+    "external_price": 1968.591739761771,
+    "trade_size": 1044
+  },
+  {
+    "tradeNumber": 440,
+    "timestamp": 1699117401,
+    "amm_price": 500,
+    "external_price": 1970.2621098249474,
+    "trade_size": 3249
+  },
+  {
+    "tradeNumber": 441,
+    "timestamp": 1699117402,
+    "amm_price": 500,
+    "external_price": 1972.5050213570155,
+    "trade_size": 3751
+  },
+  {
+    "tradeNumber": 442,
+    "timestamp": 1699117403,
+    "amm_price": 499.9999999999999,
+    "external_price": 1971.402681893353,
+    "trade_size": 4253
+  },
+  {
+    "tradeNumber": 443,
+    "timestamp": 1699117404,
+    "amm_price": 500,
+    "external_price": 1973.4059946407929,
+    "trade_size": 4480
+  },
+  {
+    "tradeNumber": 444,
+    "timestamp": 1699117405,
+    "amm_price": 500,
+    "external_price": 1974.0183756084327,
+    "trade_size": 2742
+  },
+  {
+    "tradeNumber": 445,
+    "timestamp": 1699117406,
+    "amm_price": 500,
+    "external_price": 1971.5548944311174,
+    "trade_size": 4856
+  },
+  {
+    "tradeNumber": 446,
+    "timestamp": 1699117407,
+    "amm_price": 500,
+    "external_price": 1968.909719902253,
+    "trade_size": 1349
+  },
+  {
+    "tradeNumber": 447,
+    "timestamp": 1699117408,
+    "amm_price": 500,
+    "external_price": 1969.8420646595107,
+    "trade_size": 3451
+  },
+  {
+    "tradeNumber": 448,
+    "timestamp": 1699117409,
+    "amm_price": 500,
+    "external_price": 1971.3929795118208,
+    "trade_size": 3867
+  },
+  {
+    "tradeNumber": 449,
+    "timestamp": 1699117410,
+    "amm_price": 500,
+    "external_price": 1972.607834119369,
+    "trade_size": 3522
+  },
+  {
+    "tradeNumber": 450,
+    "timestamp": 1699117411,
+    "amm_price": 500,
+    "external_price": 1973.5438312987624,
+    "trade_size": 3392
+  },
+  {
+    "tradeNumber": 451,
+    "timestamp": 1699117412,
+    "amm_price": 500,
+    "external_price": 1974.8433647978432,
+    "trade_size": 4954
+  },
+  {
+    "tradeNumber": 452,
+    "timestamp": 1699117413,
+    "amm_price": 500,
+    "external_price": 1972.143485082054,
+    "trade_size": 2409
+  },
+  {
+    "tradeNumber": 453,
+    "timestamp": 1699117414,
+    "amm_price": 500,
+    "external_price": 1969.2778680697581,
+    "trade_size": 3768
+  },
+  {
+    "tradeNumber": 454,
+    "timestamp": 1699117415,
+    "amm_price": 500,
+    "external_price": 1968.8738100310184,
+    "trade_size": 3044
+  },
+  {
+    "tradeNumber": 455,
+    "timestamp": 1699117416,
+    "amm_price": 500,
+    "external_price": 1968.5822298463759,
+    "trade_size": 3734
+  },
+  {
+    "tradeNumber": 456,
+    "timestamp": 1699117417,
+    "amm_price": 500,
+    "external_price": 1967.620520079032,
+    "trade_size": 1688
+  },
+  {
+    "tradeNumber": 457,
+    "timestamp": 1699117418,
+    "amm_price": 500,
+    "external_price": 1968.0419782692798,
+    "trade_size": 3770
+  },
+  {
+    "tradeNumber": 458,
+    "timestamp": 1699117419,
+    "amm_price": 500,
+    "external_price": 1970.686533611936,
+    "trade_size": 3745
+  },
+  {
+    "tradeNumber": 459,
+    "timestamp": 1699117420,
+    "amm_price": 500,
+    "external_price": 1969.223752449519,
+    "trade_size": 4293
+  },
+  {
+    "tradeNumber": 460,
+    "timestamp": 1699117421,
+    "amm_price": 500,
+    "external_price": 1967.6732558537497,
+    "trade_size": 4913
+  },
+  {
+    "tradeNumber": 461,
+    "timestamp": 1699117422,
+    "amm_price": 500,
+    "external_price": 1970.4967638651103,
+    "trade_size": 3700
+  },
+  {
+    "tradeNumber": 462,
+    "timestamp": 1699117423,
+    "amm_price": 500,
+    "external_price": 1968.2629605541326,
+    "trade_size": 3523
+  },
+  {
+    "tradeNumber": 463,
+    "timestamp": 1699117424,
+    "amm_price": 500,
+    "external_price": 1966.3811929836857,
+    "trade_size": 2643
+  },
+  {
+    "tradeNumber": 464,
+    "timestamp": 1699117425,
+    "amm_price": 500,
+    "external_price": 1966.740257830585,
+    "trade_size": 2350
+  },
+  {
+    "tradeNumber": 465,
+    "timestamp": 1699117426,
+    "amm_price": 500,
+    "external_price": 1965.86576578762,
+    "trade_size": 2519
+  },
+  {
+    "tradeNumber": 466,
+    "timestamp": 1699117427,
+    "amm_price": 500,
+    "external_price": 1968.56537864303,
+    "trade_size": 2739
+  },
+  {
+    "tradeNumber": 467,
+    "timestamp": 1699117428,
+    "amm_price": 500,
+    "external_price": 1970.8336869277116,
+    "trade_size": 2252
+  },
+  {
+    "tradeNumber": 468,
+    "timestamp": 1699117429,
+    "amm_price": 500,
+    "external_price": 1973.0658131157843,
+    "trade_size": 1852
+  },
+  {
+    "tradeNumber": 469,
+    "timestamp": 1699117430,
+    "amm_price": 500,
+    "external_price": 1970.4949075512254,
+    "trade_size": 1081
+  },
+  {
+    "tradeNumber": 470,
+    "timestamp": 1699117431,
+    "amm_price": 500,
+    "external_price": 1968.4995118630325,
+    "trade_size": 1324
+  },
+  {
+    "tradeNumber": 471,
+    "timestamp": 1699117432,
+    "amm_price": 500,
+    "external_price": 1965.9137606141771,
+    "trade_size": 1286
+  },
+  {
+    "tradeNumber": 472,
+    "timestamp": 1699117433,
+    "amm_price": 500,
+    "external_price": 1966.6178825269492,
+    "trade_size": 1919
+  },
+  {
+    "tradeNumber": 473,
+    "timestamp": 1699117434,
+    "amm_price": 500,
+    "external_price": 1965.385453840082,
+    "trade_size": 2354
+  },
+  {
+    "tradeNumber": 474,
+    "timestamp": 1699117435,
+    "amm_price": 500,
+    "external_price": 1965.6325926986838,
+    "trade_size": 2987
+  },
+  {
+    "tradeNumber": 475,
+    "timestamp": 1699117436,
+    "amm_price": 500,
+    "external_price": 1965.9528034260202,
+    "trade_size": 4082
+  },
+  {
+    "tradeNumber": 476,
+    "timestamp": 1699117437,
+    "amm_price": 500,
+    "external_price": 1966.764018618906,
+    "trade_size": 4741
+  },
+  {
+    "tradeNumber": 477,
+    "timestamp": 1699117438,
+    "amm_price": 500,
+    "external_price": 1964.5633075973844,
+    "trade_size": 4843
+  },
+  {
+    "tradeNumber": 478,
+    "timestamp": 1699117439,
+    "amm_price": 500,
+    "external_price": 1967.1348689287147,
+    "trade_size": 3269
+  },
+  {
+    "tradeNumber": 479,
+    "timestamp": 1699117440,
+    "amm_price": 500,
+    "external_price": 1967.3588000024945,
+    "trade_size": 3242
+  },
+  {
+    "tradeNumber": 480,
+    "timestamp": 1699117441,
+    "amm_price": 500,
+    "external_price": 1967.8441856772513,
+    "trade_size": 2419
+  },
+  {
+    "tradeNumber": 481,
+    "timestamp": 1699117442,
+    "amm_price": 500,
+    "external_price": 1966.2992689722334,
+    "trade_size": 1459
+  },
+  {
+    "tradeNumber": 482,
+    "timestamp": 1699117443,
+    "amm_price": 500,
+    "external_price": 1966.3921738463828,
+    "trade_size": 1750
+  },
+  {
+    "tradeNumber": 483,
+    "timestamp": 1699117444,
+    "amm_price": 500,
+    "external_price": 1964.3396037073874,
+    "trade_size": 2584
+  },
+  {
+    "tradeNumber": 484,
+    "timestamp": 1699117445,
+    "amm_price": 500,
+    "external_price": 1965.6526842931191,
+    "trade_size": 4790
+  },
+  {
+    "tradeNumber": 485,
+    "timestamp": 1699117446,
+    "amm_price": 499.9999999999999,
+    "external_price": 1964.772703065651,
+    "trade_size": 3969
+  },
+  {
+    "tradeNumber": 486,
+    "timestamp": 1699117447,
+    "amm_price": 500,
+    "external_price": 1965.1598339331724,
+    "trade_size": 2435
+  },
+  {
+    "tradeNumber": 487,
+    "timestamp": 1699117448,
+    "amm_price": 500,
+    "external_price": 1963.3197434141812,
+    "trade_size": 4087
+  },
+  {
+    "tradeNumber": 488,
+    "timestamp": 1699117449,
+    "amm_price": 500,
+    "external_price": 1961.5957216737875,
+    "trade_size": 2887
+  },
+  {
+    "tradeNumber": 489,
+    "timestamp": 1699117450,
+    "amm_price": 500,
+    "external_price": 1963.2487987628238,
+    "trade_size": 3412
+  },
+  {
+    "tradeNumber": 490,
+    "timestamp": 1699117451,
+    "amm_price": 500,
+    "external_price": 1961.2000959583654,
+    "trade_size": 3612
+  },
+  {
+    "tradeNumber": 491,
+    "timestamp": 1699117452,
+    "amm_price": 500,
+    "external_price": 1960.0628288023877,
+    "trade_size": 3492
+  },
+  {
+    "tradeNumber": 492,
+    "timestamp": 1699117453,
+    "amm_price": 500,
+    "external_price": 1962.462988865441,
+    "trade_size": 3666
+  },
+  {
+    "tradeNumber": 493,
+    "timestamp": 1699117454,
+    "amm_price": 500,
+    "external_price": 1964.7764383207973,
+    "trade_size": 4464
+  },
+  {
+    "tradeNumber": 494,
+    "timestamp": 1699117455,
+    "amm_price": 500,
+    "external_price": 1966.5022456173647,
+    "trade_size": 1811
+  },
+  {
+    "tradeNumber": 495,
+    "timestamp": 1699117456,
+    "amm_price": 500,
+    "external_price": 1968.4666510496097,
+    "trade_size": 1631
+  },
+  {
+    "tradeNumber": 496,
+    "timestamp": 1699117457,
+    "amm_price": 500,
+    "external_price": 1968.495955905239,
+    "trade_size": 3890
+  },
+  {
+    "tradeNumber": 497,
+    "timestamp": 1699117458,
+    "amm_price": 500,
+    "external_price": 1969.702362555784,
+    "trade_size": 2879
+  },
+  {
+    "tradeNumber": 498,
+    "timestamp": 1699117459,
+    "amm_price": 500,
+    "external_price": 1967.5440935978388,
+    "trade_size": 1527
+  },
+  {
+    "tradeNumber": 499,
+    "timestamp": 1699117460,
+    "amm_price": 500,
+    "external_price": 1969.2036718788343,
+    "trade_size": 2712
+  },
+  {
+    "tradeNumber": 500,
+    "timestamp": 1699117461,
+    "amm_price": 500,
+    "external_price": 1968.0901678422276,
+    "trade_size": 1967
+  }
+]
